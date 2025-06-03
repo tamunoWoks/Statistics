@@ -23,7 +23,8 @@ A linear relationship is a relationship between two variables where the change i
 - **Positive linear relationship:** as **𝑥** increases, **𝑦** increases. (slope **𝑚** > 0)
 - **Negative linear relationship:** as **𝑥** increases, **𝑦** decreases. (slope **𝑚** < 0)
 
-**Example:**
+**Example:**  
 If you double the number of hours you work and your earnings also double, the relationship between hours and earnings is linear.
 
-
+**Note:**  
+In a Scatter Plot, if the points lie close to a straight line, this suggests a strong linear relationship.
