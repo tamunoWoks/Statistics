@@ -20,5 +20,5 @@ A linear relationship is a relationship between two variables where the change i
   - **𝑏** = y-intercept (value of **𝑦** when **𝑥** = 0)
 
 #### Types of Linear Relationships
-- Positive linear relationship: as **𝑥** increases, **𝑦** increases. (slope **𝑚** > 0)
-- Negative linear relationship: as **𝑥** increases, **𝑦** decreases. (slope **𝑚** < 0)
+- **Positive linear relationship:** as **𝑥** increases, **𝑦** increases. (slope **𝑚** > 0)
+- **Negative linear relationship:** as **𝑥** increases, **𝑦** decreases. (slope **𝑚** < 0)
