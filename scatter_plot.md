@@ -39,7 +39,7 @@ In statistics and mathematics, a constant is a fixed value that does not change.
 - A fixed value in a formula or equation that doesn’t vary with the input.
 
 In statistical equations, constants often appear in equations like a **Linear Equation: *y=mx+b***
-- 𝑚 and 𝑏 are constants (slope and intercept).
+- **𝑚** and **𝑏** are constants (slope and intercept).
 - For a specific model, these values stay fixed once calculated.
 
 In Programming and Data, Constants may also refer to variables that are assigned once and not changed, like PI = 3.1416.
