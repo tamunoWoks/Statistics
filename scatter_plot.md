@@ -11,7 +11,7 @@ Scatter plots are commonly used in exploratory data analysis (EDA) and are a fou
 ### Linear Relationships
 A linear relationship is a relationship between two variables where the change in one variable results in a proportional and consistent change in the other. In simple terms, the data points form (or approximate) a straight line when plotted on a graph.
 #### Characteristics of a Linear Relationship:
-- Represented by the equation:
+- Represented by the equation:  
        ***y=mx+b***
   
   where:
