@@ -17,4 +17,4 @@ Imagine a teacher records the test scores of 100 students:
 ### Data to Decisions
 Statistics helps transform data into actionable information, which is crucial for decision-making across various fields such as social sciences, medicine, engineering, public policy, psychology, and more.  
 
-Statistics is very useful, fun, universal in its applicability and very crucial in our data-driven world. Yet the most important thing a ststistician does is look at data.
+Statistics is very useful, fun, universal in its applicability and crucial in our data-driven world. Yet the most important thing a ststistician does is look at data.
