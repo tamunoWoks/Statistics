@@ -22,3 +22,8 @@ A linear relationship is a relationship between two variables where the change i
 #### Types of Linear Relationships
 - **Positive linear relationship:** as **𝑥** increases, **𝑦** increases. (slope **𝑚** > 0)
 - **Negative linear relationship:** as **𝑥** increases, **𝑦** decreases. (slope **𝑚** < 0)
+
+**Example:**
+If you double the number of hours you work and your earnings also double, the relationship between hours and earnings is linear.
+
+
