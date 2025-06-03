@@ -34,7 +34,7 @@ If you double the number of hours you work and your earnings also double, the re
 In a Scatter Plot, if the points lie close to a straight line, this suggests a strong linear relationship.
 
 ### Constants
-In statistics and mathematics, a constant is a fixed value that does not change. 
+In statistics and mathematics, a `CONSTANT` is a fixed value that does not change. 
 - A constant can be a specific number (like 2, 3.14, or 100).
 - A fixed value in a formula or equation that doesn’t vary with the input.
 
@@ -45,7 +45,7 @@ In statistical equations, constants often appear in equations like a **Linear Eq
 In Programming and Data, Constants may also refer to variables that are assigned once and not changed, like PI = 3.1416.
 
 ### Noise
-In scatter plots, noise refers to random variation or irregularity in the data that obscures the underlying pattern or relationship between variables. It can come from:  
+In scatter plots, `NOISE` refers to random variation or irregularity in the data that obscures the underlying pattern or relationship between variables. It can come from:  
 - Measurement errors.
 - Natural variability.
 - External factors not included in the analysis.
@@ -53,3 +53,8 @@ In scatter plots, noise refers to random variation or irregularity in the data t
 **NOTE:**
 - If a linear relationship exists with low noise, the points will lie close to a straight line.  
 - High noise spreads the points out, making it harder to see a clear pattern or correlation.
+
+#### Why it matters:
+- Too much noise reduces the accuracy of predictions in regression models.
+- Noise can hide relationships or create the illusion of one.
+- It's important to distinguish signal (true pattern) from noise.
