@@ -7,3 +7,6 @@ A scatter plot is a type of graph used in statistics to visually display the rel
 ![Scatter plot](https://github.com/tamunoWoks/Statistics/blob/main/images/scatter_plot.png)
 
 Scatter plots are commonly used in exploratory data analysis (EDA) and are a foundation for regression analysis.
+
+### Linear Relationships
+A linear relationship is a relationship between two variables where the change in one variable results in a proportional and consistent change in the other. In simple terms, the data points form (or approximate) a straight line when plotted on a graph.
