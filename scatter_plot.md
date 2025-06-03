@@ -17,4 +17,4 @@ A linear relationship is a relationship between two variables where the change i
   - **𝑦** = dependent variable
   - **𝑥** = independent variable
   - **𝑚** = slope (rate of change)
-  - **𝑏** = y-intercept (value of 𝑦 when 𝑥 = 0)
+  - **𝑏** = y-intercept (value of **𝑦** when **𝑥** = 0)
