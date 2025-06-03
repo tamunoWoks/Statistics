@@ -1,5 +1,6 @@
 ### Scatter Plot
 A scatter plot is a type of graph used in statistics to visually display the relationship between two numerical variables.
+![Scatter plot](https://github.com/tamunoWoks/Statistics/blob/main/images/scatter_plot.png)
 
 #### Key Features:
 - Each point on the plot represents an individual data observation.
