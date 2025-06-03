@@ -11,7 +11,7 @@ There are two main types of statistics:
     - Uses a sample of data to make predictions or generalizations about a larger population.
     - Involves probability theory, hypothesis testing, confidence intervals, and regression.
 
-**Example:**
+**Example:**  
 Imagine a teacher records the test scores of 100 students:
   - Descriptive stats would tell the average score and how spread out the scores are.
   - Inferential stats might help predict how future students might perform based on this data.  
