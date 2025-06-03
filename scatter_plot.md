@@ -32,3 +32,8 @@ If you double the number of hours you work and your earnings also double, the re
 
 **Note:**  
 In a Scatter Plot, if the points lie close to a straight line, this suggests a strong linear relationship.
+
+### Constants
+In statistics and mathematics, a constant is a fixed value that does not change. 
+- A constant can be a specific number (like 2, 3.14, or 100).
+- A fixed value in a formula or equation that doesn’t vary with the input.
