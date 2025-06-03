@@ -59,7 +59,7 @@ In scatter plots, `NOISE` refers to random variation or irregularity in the data
 - Noise can hide relationships or create the illusion of one.
 - It's important to distinguish signal (true pattern) from noise.  
 
-To reduce noise in a scatter plot;
+#### To reduce noise in a scatter plot:
 - Collect better quality data.
 - Use larger sample sizes.
 - Apply smoothing techniques or regression to model the underlying trend.
