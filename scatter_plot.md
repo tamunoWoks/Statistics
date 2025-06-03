@@ -43,3 +43,10 @@ In statistical equations, constants often appear in equations like a **Linear Eq
 - For a specific model, these values stay fixed once calculated.
 
 In Programming and Data, Constants may also refer to variables that are assigned once and not changed, like PI = 3.1416.
+
+### Noise
+In scatter plots, noise refers to random variation or irregularity in the data that obscures the underlying pattern or relationship between variables.  
+It can come from:  
+- Measurement errors.
+- Natural variability.
+- External factors not included in the analysis.
