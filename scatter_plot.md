@@ -62,5 +62,11 @@ In scatter plots, `NOISE` refers to random variation or irregularity in the data
 #### To reduce noise in a scatter plot:
 - Collect better quality data.
 - Use larger sample sizes.
-- Apply smoothing techniques or regression to model the underlying trend.
+- Apply smoothing techniques or regression to model the underlying trend.  
 
+Here is a visual comparison of scatter plots with low noise vs. high noise. The spread of points shows the effect of noise.
+![noise comparison](https://github.com/tamunoWoks/Statistics/blob/main/images/scatter_noise_comparison.png)  
+- Left (Low Noise): Points are tightly clustered around the line of best fit, showing a clear relationship.
+- Right (High Noise): Points are more widely scattered, making it harder to detect a precise pattern.
+
+This illustrates how noise can affect the visibility and strength of a linear relationship in data. 
