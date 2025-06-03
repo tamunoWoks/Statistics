@@ -15,6 +15,6 @@ Imagine a teacher records the test scores of 100 students:
   - Inferential stats might help predict how future students might perform based on this data.  
 
 ### Data to Decisions
-Statistics is very crucial in our data-driven world. It helps transform data into actionable information, which is crucial for decision-making across various fields such as social sciences, medicine, engineering, public policy, psychology, and more.  
+Statistics helps transform data into actionable information, which is crucial for decision-making across various fields such as social sciences, medicine, engineering, public policy, psychology, and more.  
 
-Statistics is very useful, fun and universal in its applicability.
+Statistics is very useful, fun, universal in its applicability and very crucial in our data-driven world.
