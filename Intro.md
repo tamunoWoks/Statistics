@@ -29,4 +29,6 @@ Imagine you know the population of a town in 2010 and 2020:
 - **2010:** 10,000 people
 - **2020:** 15,000 people.  
 
-If you want to estimate the population in 2015, interpolation helps you make that estimate based on the known trend.
+If you want to estimate the population in 2015, interpolation helps you make that estimate based on the known trend.  
+
+#### Types of Interpolation:
