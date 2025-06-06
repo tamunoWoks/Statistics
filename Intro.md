@@ -20,7 +20,7 @@ Statistics is very useful, fun, universal in its applicability and crucial in ou
 
 ### Statistical Concepts
 ---
-#### INTERPOLATION
+### INTERPOLATION
 Interpolation in statistics is the process of estimating unknown values that fall within the range of known data points. If you have a set of data points and you want to estimate the value of a variable at a point that lies between two known values, you're performing interpolation.  
 
 **Example:**  
@@ -41,4 +41,5 @@ If you want to estimate the population in 2015, interpolation helps you make tha
     - Fits smooth curves (splines) between points.
     - Good for larger data sets where smoothness matters.  
 
-#### INTERVALS
+### INTERVALS
+An interval in statistics refers to a range of values used to group or organize data — especially in histograms, frequency tables, and grouped data analysis.
