@@ -38,4 +38,6 @@ If you want to estimate the population in 2015, interpolation helps you make tha
 2. **Polynomial Interpolation:**  
     - Uses polynomials to fit more complex curves.
     - More accurate for non-linear trends but can be unstable with too many points.
-  
+3. **Spline Interpolation:**
+    - Fits smooth curves (splines) between points.
+    - Good for larger data sets where smoothness matters.  
