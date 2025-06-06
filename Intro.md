@@ -54,4 +54,12 @@ If you're measuring people's heights in cm:
 - Interval 3: 160–169
 - Interval 4: 170–179  
 
-Each of these ranges is an interval, and the height of the bar (in a histogram) would show how many people fall into each height range.
+Each of these ranges is an interval, and the height of the bar (in a histogram) would show how many people fall into each height range.  
+
+####  Important Terms:
+|Term|Description|
+|:---|:----------|
+|Lower Bound|The smallest value in the interval|
+|Upper Bound|The largest value in the interval|
+|Width|Difference between upper and lower bound (e.g. 160–150 = 10)|
+|Class Interval|Another name for a bin or group in grouped data|
