@@ -35,13 +35,7 @@ If you want to estimate the population in 2015, interpolation helps you make tha
 1. **Linear Interpolation:**  
     - Assumes the change between two points is linear.
     - Simple and commonly used.
-      ### 🔹 Linear Interpolation Formula
-
-To estimate the value of \( y \) at a point \( x \) between two known points \((x_1, y_1)\) and \((x_2, y_2)\):
-
-\[
-y = y_1 + \frac{(x - x_1)(y_2 - y_1)}{x_2 - x_1}
-\]
-
-2. **
+2. **Polynomial Interpolation:**  
+    - Uses polynomials to fit more complex curves.
+    - More accurate for non-linear trends but can be unstable with too many points.
   
