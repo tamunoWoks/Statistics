@@ -2,10 +2,10 @@
 Statistics is the branch of mathematics that deals with collecting, organizing, analyzing, interpreting, and presenting data. It helps us make sense of large amounts of information by summarizing patterns and drawing conclusions.
 
 There are two main types of statistics:
-1. Descriptive Statistics
+1. **Descriptive Statistics**
     - Focuses on summarizing and describing the features of a dataset.
     - Common tools: mean, median, mode, standard deviation, charts, and graphs.  
-2. Inferential Statistics
+2. **Inferential Statistics**
     - Uses a sample of data to make predictions or generalizations about a larger population.
     - Involves probability theory, hypothesis testing, confidence intervals, and regression.
 
