@@ -18,7 +18,7 @@ A bar chart (or bar graph) is a graphical representation of categorical data usi
 
 ![Grouped & Stacked charts](https://github.com/tamunoWoks/Statistics/blob/main/images/groupstacked.jfif)  
 
-#### When to Use:
+#### When to Use Bar Charts:
 - To compare values across different categories.
 - To visualize counts or summaries of categorical data.
 - For clear, easy-to-read data summaries.
