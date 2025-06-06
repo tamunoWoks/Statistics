@@ -20,3 +20,6 @@ Statistics helps transform data into actionable information, which is crucial fo
 Statistics is very useful, fun, universal in its applicability and crucial in our data-driven world. Yet the most important thing a statistician does is look at data.
 
 ### Statistical Concepts
+---
+#### INTERPOLATION
+Interpolation in statistics is the process of estimating unknown values that fall within the range of known data points. If you have a set of data points and you want to estimate the value of a variable at a point that lies between two known values, you're performing interpolation.
