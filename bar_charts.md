@@ -32,3 +32,4 @@ A histogram is a graphical representation of the distribution of a dataset. It l
 - Data is grouped into intervals (bins).
 - The height of each bar shows the frequency (how many data points fall within that interval).
 - No gaps between bars (unless there’s an empty bin), because the data is continuous.
+  ![Histogram](https://github.com/tamunoWoks/Statistics/blob/main/images/histogram.jfif)
