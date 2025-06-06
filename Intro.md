@@ -43,3 +43,6 @@ If you want to estimate the population in 2015, interpolation helps you make tha
 
 ### INTERVALS
 An interval in statistics refers to a range of values used to group or organize data — especially in histograms, frequency tables, and grouped data analysis.
+#### In a Histogram:
+- Intervals (also called bins) are used to split continuous data into segments.
+- Each interval covers a specific range of values, and the frequency of data points within each interval is counted.
