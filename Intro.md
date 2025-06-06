@@ -32,3 +32,7 @@ Imagine you know the population of a town in 2010 and 2020:
 If you want to estimate the population in 2015, interpolation helps you make that estimate based on the known trend.  
 
 #### Types of Interpolation:
+1. **Linear Interpolation:**  
+- Assumes the change between two points is linear.
+- Simple and commonly used.
+  
