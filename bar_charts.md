@@ -35,3 +35,13 @@ A histogram is a graphical representation of the distribution of a dataset. It l
 - No gaps between bars (unless there’s an empty bin), because the data is continuous.
 
   ![Histogram](https://github.com/tamunoWoks/Statistics/blob/main/images/histogram.jfif)
+
+**Example:**
+Suppose you measure the ages of 100 people. A histogram could show:
+- 0–10 years: 5 people
+- 10–20 years: 20 people
+- 20–30 years: 40 people
+- 30–40 years: 25 people
+- 40–50 years: 10 people.  
+
+Each bar represents one age group, and its height shows the number of people in that group.
