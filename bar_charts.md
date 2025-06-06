@@ -23,4 +23,7 @@ A bar chart (or bar graph) is a graphical representation of categorical data usi
 - To visualize counts or summaries of categorical data.
 - For clear, easy-to-read data summaries.
 
-**NOTE:** Barcharts are not to be confused with **Histograms**, which look similar but are used for continuous (not categorical) data.
+**NOTE:** Barcharts are not to be confused with **Histograms**, which look similar but are used for continuous (not categorical) data.  
+
+## Histograms in Statistics
+A histogram is a graphical representation of the distribution of a dataset. It looks similar to a bar chart but is used for continuous numerical data, not categorical data.
