@@ -14,5 +14,5 @@ A bar chart (or bar graph) is a graphical representation of categorical data usi
 |Vertical Bar Chart|	Bars go up from the x-axis|
 |Horizontal Bar Chart|	Bars go sideways from the y-axis|
 |Grouped Bar Chart|	Shows multiple bars side-by-side for each category|
-|Stacked Bar Chart|	Bars are stacked to show sub-categories|
+|Stacked Bar Chart|	Bars are stacked to show sub-categories|  
 ![Grouped & Stacked charts](https://github.com/tamunoWoks/Statistics/blob/main/images/groupstacked.jfif)
