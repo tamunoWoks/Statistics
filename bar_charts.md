@@ -36,7 +36,7 @@ A histogram is a graphical representation of the distribution of a dataset. It l
 
   ![Histogram](https://github.com/tamunoWoks/Statistics/blob/main/images/histogram.jfif)
 
-**Example:**
+**Example:**  
 Suppose you measure the ages of 100 people. A histogram could show:
 - 0–10 years: 5 people
 - 10–20 years: 20 people
@@ -44,4 +44,8 @@ Suppose you measure the ages of 100 people. A histogram could show:
 - 30–40 years: 25 people
 - 40–50 years: 10 people.  
 
-Each bar represents one age group, and its height shows the number of people in that group.
+Each bar represents one age group, and its height shows the number of people in that group.  
+#### What It Shows:
+- Shape of the data (e.g., normal, skewed, bimodal)
+- Spread and central tendency
+- Outliers or gaps.  
