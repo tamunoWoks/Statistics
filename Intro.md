@@ -33,6 +33,6 @@ If you want to estimate the population in 2015, interpolation helps you make tha
 
 #### Types of Interpolation:
 1. **Linear Interpolation:**  
-- Assumes the change between two points is linear.
-- Simple and commonly used.
+    - Assumes the change between two points is linear.
+    - Simple and commonly used.
   
