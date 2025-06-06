@@ -46,3 +46,12 @@ An interval in statistics refers to a range of values used to group or organize 
 #### In a Histogram:
 - Intervals (also called bins) are used to split continuous data into segments.
 - Each interval covers a specific range of values, and the frequency of data points within each interval is counted.
+
+**Example:**  
+If you're measuring people's heights in cm:
+- Interval 1: 140–149
+- Interval 2: 150–159
+- Interval 3: 160–169
+- Interval 4: 170–179  
+
+Each of these ranges is an interval, and the height of the bar (in a histogram) would show how many people fall into each height range.
