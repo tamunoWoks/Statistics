@@ -63,3 +63,8 @@ Each of these ranges is an interval, and the height of the bar (in a histogram) 
 |Upper Bound|The largest value in the interval|
 |Width|Difference between upper and lower bound (e.g. 160–150 = 10)|
 |Class Interval|Another name for a bin or group in grouped data|
+
+####  Why Use Intervals?
+- To simplify large datasets.
+- To observe patterns in continuous data.
+- To create frequency distributions and histograms.
