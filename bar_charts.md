@@ -6,6 +6,7 @@ A bar chart (or bar graph) is a graphical representation of categorical data usi
 - Bars can be vertical or horizontal.
 - All bars are usually equally spaced.
 - The length or height of the bar shows the count, percentage, or another measure.
+ 
   ![bars](https://github.com/tamunoWoks/Statistics/blob/main/images/double.jfif)).  
 
 #### TYPES OF BAR CHARTS:
@@ -31,5 +32,6 @@ A histogram is a graphical representation of the distribution of a dataset. It l
 #### KEY FEATURES:
 - Data is grouped into intervals (bins).
 - The height of each bar shows the frequency (how many data points fall within that interval).
-- No gaps between bars (unless there’s an empty bin), because the data is continuous.  
+- No gaps between bars (unless there’s an empty bin), because the data is continuous.
+
   ![Histogram](https://github.com/tamunoWoks/Statistics/blob/main/images/histogram.jfif)
