@@ -13,7 +13,7 @@ There are two main types of statistics:
 Imagine a teacher records the test scores of 100 students:
   - Descriptive stats would tell the average score and how spread out the scores are.
   - Inferential stats might help predict how future students might perform based on this data.  
----### Data to Decisions
+### Data to Decisions
 Statistics helps transform data into actionable information, which is crucial for decision-making across various fields such as social sciences, medicine, engineering, public policy, psychology, and more.  
 
 Statistics is very useful, fun, universal in its applicability and crucial in our data-driven world. Yet the most important thing a statistician does is look at data.
