@@ -6,3 +6,9 @@ A pie chart is a circular chart divided into slices, where each slice represents
 - Useful for comparing proportions.
 
 ![Pie chart](https://github.com/tamunoWoks/Statistics/blob/main/images/pie.jfif)
+
+#### When to Use:
+- When you want to show proportions or percentages.
+- When comparing a few categories (ideally 5 or fewer).
+- When emphasizing the part-to-whole relationship is important.
+
