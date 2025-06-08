@@ -4,3 +4,5 @@ A pie chart is a circular chart divided into slices, where each slice represents
 - The entire circle = 100% of the data.
 - Each slice = one category’s contribution to the total.
 - Useful for comparing proportions.
+
+![Pie chart](https://github.com/tamunoWoks/Statistics/blob/main/images/pie.jfif)
