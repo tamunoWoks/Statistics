@@ -12,3 +12,7 @@ A pie chart is a circular chart divided into slices, where each slice represents
 - When comparing a few categories (ideally 5 or fewer).
 - When emphasizing the part-to-whole relationship is important.
 
+#### Limitations:
+- Not great for precise comparisons.
+- Can become cluttered with too many slices.
+- Difficult to interpret without labels or percentages shown.
