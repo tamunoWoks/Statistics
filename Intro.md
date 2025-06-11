@@ -113,3 +113,9 @@ It occurs when the results of a statistical analysis consistently deviate from t
 | **Response Bias**     | When participants give false or misleading answers, often due to social pressure.                                   |
 | **Publication Bias**  | Studies with positive results are more likely to be published, skewing perceptions.                                 |
 | **Confirmation Bias** | Interpreting data in a way that confirms preexisting beliefs.                                                       |
+
+#### Why Bias Matters:
+- Leads to inaccurate conclusions
+- Can mislead decision-making
+- Reduces validity and reliability of studies
+- Affects policy, health, justice, and more
