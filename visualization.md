@@ -18,3 +18,11 @@ Visualization matters because it:
 | **Scatter Plot** | Show relationships between two numerical variables |
 | **Box Plot**     | Show spread and outliers in data                   |
 | **Heatmap**      | Show intensity or correlation in a matrix          |
+
+#### TOOLS FOR VISUALIZATION:
+- Excel / Google Sheets
+- Python (matplotlib, seaborn, plotly)
+- R (ggplot2)
+- Power BI / Tableau / Looker Studio
+- SQL (with visualization extensions or BI tools)
+
