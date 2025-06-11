@@ -30,3 +30,9 @@ It occurs when the results of a statistical analysis consistently deviate from t
 #### Scenario: Estimating Average Income
 You want to estimate the average income in a city using a survey.
 
+#### Biased Approach:
+You stand outside a luxury shopping mall and ask passersby about their income.
+- Result: The average income appears to be $120,000.
+- Why? You're unintentionally surveying wealthier individuals.
+- Bias Introduced: **Sampling bias** – the sample isn't representative of the city's full population.
+
