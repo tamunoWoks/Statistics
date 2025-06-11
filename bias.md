@@ -36,3 +36,8 @@ You stand outside a luxury shopping mall and ask passersby about their income.
 - Why? You're unintentionally surveying wealthier individuals.
 - Bias Introduced: **Sampling bias** – the sample isn't representative of the city's full population.
 
+#### Unbiased Approach:
+You use random sampling from a complete list of city residents, including people from all neighborhoods and income levels.
+- Result: The average income is $65,000.
+- More accurate because the sample includes a fair cross-section of the population.
+
