@@ -21,7 +21,7 @@ Statistics is very useful, fun, universal in its applicability and crucial in ou
 ### Statistical Concepts
 ---
 ### INTERPOLATION
-Interpolation in statistics is the process of estimating unknown values that fall within the range of known data points. If you have a set of data points and you want to estimate the value of a variable at a point that lies between two known values, you're performing interpolation.  
+**Interpolation** in statistics is the process of estimating unknown values that fall within the range of known data points. If you have a set of data points and you want to estimate the value of a variable at a point that lies between two known values, you're performing interpolation.  
 
 **Example:**  
 Imagine you know the population of a town in 2010 and 2020:
@@ -42,7 +42,7 @@ If you want to estimate the population in 2015, interpolation helps you make tha
     - Good for larger data sets where smoothness matters.  
 
 ### INTERVALS
-An interval in statistics refers to a range of values used to group or organize data — especially in histograms, frequency tables, and grouped data analysis.
+An **interval** in statistics refers to a range of values used to group or organize data — especially in histograms, frequency tables, and grouped data analysis.
 #### In a Histogram:
 - Intervals (also called bins) are used to split continuous data into segments.
 - Each interval covers a specific range of values, and the frequency of data points within each interval is counted.
@@ -70,7 +70,7 @@ Each of these ranges is an interval, and the height of the bar (in a histogram) 
 - To create frequency distributions and histograms.
 
 ### SIMPSON'S PARADOX
-Simpson’s Paradox (also called the Yule–Simpson Effect) is a statistical phenomenon in which a trend appears in several different groups of data but disappears or reverses when the groups are combined.  
+**Simpson’s Paradox** (also called the Yule–Simpson Effect) is a statistical phenomenon in which a trend appears in several different groups of data but disappears or reverses when the groups are combined.  
 In simple terms, a relationship that seems true within individual groups may be misleading or even reversed when the data is combined.
 
 ####  Why It Happens:
@@ -100,3 +100,5 @@ This reversal is Simpson’s Paradox.
 - Criminal justice data
 - Marketing and A/B testing
 
+#### BIAS
+In statistics, **Bias** refers to a systematic error that leads to an incorrect or unfair representation of reality in data collection, analysis, interpretation, or presentation. It occurs when the results of a statistical analysis consistently deviate from the truth due to flaws in the method or assumptions.
