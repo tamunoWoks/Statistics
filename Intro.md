@@ -76,3 +76,15 @@ In simple terms, a relationship that seems true within individual groups may be 
 ####  Why It Happens:
 - It’s caused by a lurking (confounding) variable that affects the outcome.
 - This confounder changes the weight or balance of the data when aggregated.
+
+#### Classic Example:
+Suppose two hospitals are being compared based on surgery success rates:  
+| Hospital | Men Success Rate | Women Success Rate | Overall Success Rate |
+| -------- | ---------------- | ------------------ | -------------------- |
+| A        | 90%              | 80%                | 85%                  |
+| B        | 95%              | 85%                | 82% ❗                |  
+
+- Individually: Hospital B is better for both men and women.
+- Overall: Hospital A appears better — due to uneven patient distribution (e.g. more difficult cases in B).  
+
+This reversal is Simpson’s Paradox.
