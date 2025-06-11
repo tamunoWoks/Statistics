@@ -126,3 +126,5 @@ It occurs when the results of a statistical analysis consistently deviate from t
 - Ensure proper calibration and training
 - Be aware of confounding variables
 - Blind the study (e.g., double-blind experiments)
+
+**NOTE:** Bias is not the same as random error — bias is systematic and predictable, while random error is unpredictable and cancels out over time.
