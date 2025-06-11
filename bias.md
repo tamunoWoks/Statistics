@@ -26,3 +26,7 @@ It occurs when the results of a statistical analysis consistently deviate from t
 - Blind the study (e.g., double-blind experiments)
 
 **NOTE:** Bias is not the same as random error — bias is systematic and predictable, while random error is unpredictable and cancels out over time.
+
+#### Scenario: Estimating Average Income
+You want to estimate the average income in a city using a survey.
+
