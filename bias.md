@@ -41,3 +41,8 @@ You use random sampling from a complete list of city residents, including people
 - Result: The average income is $65,000.
 - More accurate because the sample includes a fair cross-section of the population.
 
+#### Conclusion:
+Because of sampling bias, your first method overestimated income by nearly double. This could have serious consequences:
+- Misleading government policy
+- Poor business decisions
+- Unfair tax strategies
