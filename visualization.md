@@ -26,3 +26,8 @@ Visualization matters because it:
 - Power BI / Tableau / Looker Studio
 - SQL (with visualization extensions or BI tools)
 
+#### Best Practices:
+- Always label your axes and units.
+- Choose the right chart for your data type.
+- Avoid clutter – keep visuals clean and focused.
+- Use color and size intentionally.
