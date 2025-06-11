@@ -19,6 +19,11 @@ Visualization matters because it:
 | **Box Plot**     | Show spread and outliers in data                   |
 | **Heatmap**      | Show intensity or correlation in a matrix          |
 
+#### Example:
+Imagine you have sales data over 12 months. A line chart can clearly show:
+- Growth trends 📈
+- Seasonal dips or spikes 📉
+
 #### TOOLS FOR VISUALIZATION:
 - Excel / Google Sheets
 - Python (matplotlib, seaborn, plotly)
