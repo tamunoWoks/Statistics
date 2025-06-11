@@ -18,3 +18,14 @@ Aggregation transforms raw data into summarized forms, making it easier to analy
 - Supports decision-making
 - Used in dashboards, reports, summaries, etc.
 
+#### Example:
+You have daily sales data for a store:
+| Date   | Sales (\$) |
+| ------ | ---------- |
+| June 1 | 200        |
+| June 2 | 250        |
+| June 3 | 300        |
+
+- Aggregate Total: 200 + 250 + 300 = $750
+- Aggregate Average: (200 + 250 + 300) / 3 = $250
+
