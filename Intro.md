@@ -93,3 +93,10 @@ This reversal is Simpson’s Paradox.
 - Always check if a third variable is influencing results.
 - Analyze subgroups before making conclusions from totals.
 - Be cautious with aggregated data — it can hide or reverse real trends.
+
+#### Real-World Relevance:
+- Medical studies
+- College admissions (gender bias)
+- Criminal justice data
+- Marketing and A/B testing
+
