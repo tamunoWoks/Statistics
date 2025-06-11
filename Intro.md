@@ -119,3 +119,10 @@ It occurs when the results of a statistical analysis consistently deviate from t
 - Can mislead decision-making
 - Reduces validity and reliability of studies
 - Affects policy, health, justice, and more
+
+#### How to Reduce Bias:
+- Use random sampling
+- Design clear and neutral questions
+- Ensure proper calibration and training
+- Be aware of confounding variables
+- Blind the study (e.g., double-blind experiments)
