@@ -88,3 +88,8 @@ Suppose two hospitals are being compared based on surgery success rates:
 - Overall: Hospital A appears better — due to uneven patient distribution (e.g. more difficult cases in B).  
 
 This reversal is Simpson’s Paradox.
+
+#### Key Takeaways:
+- Always check if a third variable is influencing results.
+- Analyze subgroups before making conclusions from totals.
+- Be cautious with aggregated data — it can hide or reverse real trends.
