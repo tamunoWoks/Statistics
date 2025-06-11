@@ -4,7 +4,7 @@ Aggregation transforms raw data into summarized forms, making it easier to analy
 
 #### Common Aggregation Functions:
 | Function           | What It Does                    | Example                        |
-| ------------------ | ------------------------------- | ------------------------------ |
+| :----------------- | :------------------------------ | :----------------------------- |
 | **Sum**            | Adds all values                 | Total sales in a month         |
 | **Mean (Average)** | Computes the average value      | Average score in a test        |
 | **Median**         | Middle value when sorted        | Median household income        |
