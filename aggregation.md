@@ -11,3 +11,10 @@ Aggregation transforms raw data into summarized forms, making it easier to analy
 | **Count**          | Number of items or observations | Number of customers            |
 | **Min / Max**      | Finds smallest/largest value    | Lowest and highest temperature |
 | **Mode**           | Most frequent value             | Most common product sold       |
+
+#### Why Aggregation Matters:
+- Helps reveal trends and patterns
+- Reduces complexity
+- Supports decision-making
+- Used in dashboards, reports, summaries, etc.
+
