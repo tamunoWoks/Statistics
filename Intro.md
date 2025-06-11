@@ -73,3 +73,6 @@ Each of these ranges is an interval, and the height of the bar (in a histogram) 
 Simpson’s Paradox (also called the Yule–Simpson Effect) is a statistical phenomenon in which a trend appears in several different groups of data but disappears or reverses when the groups are combined.  
 In simple terms, a relationship that seems true within individual groups may be misleading or even reversed when the data is combined.
 
+####  Why It Happens:
+- It’s caused by a lurking (confounding) variable that affects the outcome.
+- This confounder changes the weight or balance of the data when aggregated.
