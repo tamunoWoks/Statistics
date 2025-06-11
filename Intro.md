@@ -68,3 +68,8 @@ Each of these ranges is an interval, and the height of the bar (in a histogram) 
 - To simplify large datasets.
 - To observe patterns in continuous data.
 - To create frequency distributions and histograms.
+
+### SIMPSON'S PARADOX
+Simpson’s Paradox (also called the Yule–Simpson Effect) is a statistical phenomenon in which a trend appears in several different groups of data but disappears or reverses when the groups are combined.  
+In simple terms, a relationship that seems true within individual groups may be misleading or even reversed when the data is combined.
+
