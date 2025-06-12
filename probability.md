@@ -22,3 +22,9 @@ If you roll a fair 6-sided die:
 
 #### Key Note:
 While statistics involves analyzing data to infer possible causes, probability focuses on predicting data based on known causes. Understanding probability is important as it provides the language to describe the connection between data and underlying causes. 
+
+#### Understanding Probability with a Fair Coin Example
+A fair coin is a coin where:
+- There are only two possible outcomes: Heads (H) or Tails (T)
+- Both outcomes are equally likely.
+
