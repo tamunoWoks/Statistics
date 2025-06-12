@@ -41,3 +41,9 @@ A fair coin is a coin where:
    - 𝑃(Tails) = 1/2 = 0.5
 
 So, each side has a 50% chance (or 0.5 probability) of appearing on any single flip.
+
+#### Repeated Flips and Experimental Probability:
+If you flip the coin 100 times, you might not get exactly 50 heads and 50 tails — but over a large number of flips, the **relative frequency** of heads and tails tends to approach 0.5.
+
+This is called the **Law of Large Numbers** in probability and statistics.
+
