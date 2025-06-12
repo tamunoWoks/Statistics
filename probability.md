@@ -9,7 +9,7 @@ If you roll a fair 6-sided die:
 
 #### How Is Probability Related to Statistics?
 | Aspect          | Probability                                  | Statistics                                             |
-| --------------- | -------------------------------------------- | ------------------------------------------------------ |
+| :--------------- | :-------------------------------------------- | :------------------------------------------------------ |
 | **Direction**   | Starts with known model → predicts outcomes  | Starts with data → infers model or relationships       |
 | **Purpose**     | To model uncertainty before data is observed | To analyze and interpret observed data                 |
 | **Example Use** | What's the chance of rain tomorrow?          | Based on past weather, how often does it rain in June? |
