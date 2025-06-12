@@ -29,7 +29,7 @@ A fair coin is a coin where:
 - Both outcomes are equally likely.
 
 #### Probability Formula:
-1. 𝑃(event) = Number of favorable outcomes/Total number of possible outcomes
+1. 𝑃(event) = Number of favorable outcomes / Total number of possible outcomes
 2. P(A) = 1 - P(¬A)
 
 #### Examples:
