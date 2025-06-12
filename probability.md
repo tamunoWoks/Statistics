@@ -33,11 +33,11 @@ A fair coin is a coin where:
  
 #### Examples:
 1. Probability of Getting Heads:
-- Favorable outcome = Heads (1 outcome)
-- Total outcomes = 2 (Heads or Tails)
+   - Favorable outcome = Heads (1 outcome)
+   - Total outcomes = 2 (Heads or Tails)  
           𝑃(Heads) = 1/2 = 0.5
 
-2. Probability of Getting Tails:
+2. Probability of Getting Tails:  
           𝑃(Tails) = 1/2 = 0.5
 
 So, each side has a 50% chance (or 0.5 probability) of appearing on any single flip.
