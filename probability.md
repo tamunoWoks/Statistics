@@ -19,3 +19,6 @@ If you roll a fair 6-sided die:
 - **Probability is forward-looking:** it helps you predict outcomes before an experiment.
 - **Statistics is backward-looking:** it helps you learn from or analyze outcomes after they happen.
 - **They work hand in hand:** probability builds the foundation for many statistical methods (like hypothesis testing, confidence intervals, Bayesian inference).
+
+#### Key Note:
+While statistics involves analyzing data to infer possible causes, probability focuses on predicting data based on known causes. Understanding probability is important as it provides the language to describe the connection between data and underlying causes. 
