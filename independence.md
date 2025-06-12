@@ -11,5 +11,5 @@ Let:
 
 Each flip is independent because:
 - The outcome of the first coin does not influence the second.
-- So, 𝑃(𝐴)=1/2, 𝑃(𝐵)=1/2
-      𝑃(𝐴∩𝐵)=𝑃(𝐴)⋅𝑃(𝐵)=1/2*1/2=1/4
+- So, **𝑃(𝐴)=1/2, 𝑃(𝐵)=1/2**
+- Hence, **𝑃(𝐴∩𝐵)=𝑃(𝐴)⋅𝑃(𝐵)=1/2*1/2=1/4**
