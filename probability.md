@@ -28,3 +28,6 @@ A fair coin is a coin where:
 - There are only two possible outcomes: Heads (H) or Tails (T)
 - Both outcomes are equally likely.
 
+#### Probability Formula:
+𝑃(event) = Number of favorable outcomes/Total number of possible outcomes
+ 
