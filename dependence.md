@@ -17,7 +17,7 @@ From a standard deck of 52 cards (4 Aces):
   - **𝑃(𝐵∣ not A) = 4/51**
 - So, **𝑃(𝐵)** depends on whether or not A happened ⇒ dependent events.
 
-#### Conditional Probability:
+### Conditional Probability:
 When events are dependent, we often use conditional probability:   
  - **𝑃(𝐵∣𝐴)** = Probability of B given A has occurred  
 
