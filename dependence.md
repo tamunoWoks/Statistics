@@ -9,6 +9,16 @@ Let:
 - Event A = "First card drawn is an Ace"
 - Event B = "Second card drawn is an Ace"
 
+From a standard deck of 52 cards (4 Aces):
+- **𝑃(𝐴) = 4/52 = 1/13**
+- If the first card was an Ace, only 3 Aces are left out of 51 cards:
+  - **𝑃(𝐵∣𝐴) = 3/51**
+- If the first card was not an Ace:
+  - **𝑃(𝐵∣not A) = 4/51**
+- So, 𝑃(𝐵) depends on whether or not A happened ⇒ dependent events.
+
+---
+
 ### INDEPENDENCE
 In probability, **independence** means that the outcome of one event does not affect the outcome of another. Two events are independent if knowing the result of one gives no information about the other.  
 
