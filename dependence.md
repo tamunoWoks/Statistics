@@ -20,6 +20,7 @@ From a standard deck of 52 cards (4 Aces):
 #### Conditional Probability:
 When events are dependent, we often use conditional probability:   
  - **𝑃(𝐵∣𝐴)** = Probability of B given A has occurred  
+
 If:  
  - **𝑃(𝐵∣𝐴)≠𝑃(𝐵)**  
 then A and B are dependent.
