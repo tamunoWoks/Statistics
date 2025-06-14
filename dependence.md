@@ -15,7 +15,7 @@ From a standard deck of 52 cards (4 Aces):
   - **𝑃(𝐵∣𝐴) = 3/51**
 - If the first card was not an Ace:
   - **𝑃(𝐵∣not A) = 4/51**
-- So, 𝑃(𝐵) depends on whether or not A happened ⇒ dependent events.
+- So, **𝑃(𝐵)** depends on whether or not A happened ⇒ dependent events.
 
 ---
 
