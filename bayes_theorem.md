@@ -13,3 +13,5 @@ Where:
 - **𝑃(𝐵)**: Total/marginal probability of B (all ways B can happen)
 - **𝑃(𝐴∣𝐵)**: Posterior probability (updated belief about A after seeing B)
 
+## NORMALIZATION
+In Bayesian statistics, normalizing refers to adjusting probabilities so that they sum (or integrate) to 1, ensuring a valid probability distribution. This is done using the marginal probability P(B) in Bayes' Theorem.
