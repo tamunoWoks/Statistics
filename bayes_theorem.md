@@ -15,3 +15,8 @@ Where:
 
 ## NORMALIZATION
 In Bayesian statistics, normalizing refers to adjusting probabilities so that they sum (or integrate) to 1, ensuring a valid probability distribution. This is done using the marginal probability P(B) in Bayes' Theorem.
+### Why Normalize?
+- To bring different variables to the same scale
+- To improve performance of machine learning algorithms
+- To avoid one variable dominating others due to larger values
+- To compare values measured in different units
