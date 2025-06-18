@@ -26,4 +26,9 @@ Bayes' Theorem updates a prior probability **P(A)** to a posterior probability *
 
 Here:
 - The numerator **P(B∣A)⋅P(A)** gives the **unnormalized posterior**.
-- The denominator **P(B)** ensures the posterior probabilities sum to 1.
+- The denominator **P(B)** ensures the posterior probabilities sum to 1.  
+
+### Key Points:
+- **Ensures Valid Probabilities**: Without normalization, the "probabilities" might not sum to 1.
+- **Marginal Likelihood P(B)**: Acts as a scaling factor.
+- **Useful in Bayesian Inference**: Normalization is crucial when comparing multiple hypotheses.
