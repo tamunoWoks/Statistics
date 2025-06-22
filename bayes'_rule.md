@@ -14,4 +14,6 @@ Where:
 - **𝑃(𝐴∣𝐵)**: Posterior probability (updated belief about A after seeing B)
 
 ### Summary
-Bayes' Rule combines the prior probability with the test results to calculate a new probability estimate for the hidden variable.
+Bayes' Rule combines the prior probability with the test results to calculate a new probability estimate for the hidden variable.  
+
+It emphasizes the importance of normalizing the resulting values so they sum to 1.
