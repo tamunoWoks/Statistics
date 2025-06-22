@@ -16,4 +16,4 @@ Where:
 ### Summary
 Bayes' Rule combines the prior probability with the test results to calculate a new probability estimate for the hidden variable.  
 
-It emphasizes the importance of normalizing the resulting values so they sum to 1.
+It emphasizes the importance of normalizing the resulting values so they sum to 1. This normalization allows for a proper comparison between the probabilities of the hidden variable being true or false given the test result.
