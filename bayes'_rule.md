@@ -12,3 +12,6 @@ Where:
 - **𝑃(𝐵∣𝐴)**: Likelihood (probability of observing B given A)
 - **𝑃(𝐵)**: Total/marginal probability of B (all ways B can happen)
 - **𝑃(𝐴∣𝐵)**: Posterior probability (updated belief about A after seeing B)
+
+### Summary
+Bayes' Rule combines the prior probability with the test results to calculate a new probability estimate for the hidden variable.
