@@ -35,7 +35,7 @@ For continuous variables, the probability at a single point is zero:
 So we calculate the probability over an interval using the area under the density function.
 #### Summary table:
 | Term                               | Meaning                                        |
-| ---------------------------------- | ---------------------------------------------- |
+| :--------------------------------- | :--------------------------------------------- |
 | PDF (Probability Density Function) | Describes the **shape** of the distribution    |
 | $f(x)$                             | Likelihood **density**, not actual probability |
 | Area under curve                   | **Actual probability** between values          |
