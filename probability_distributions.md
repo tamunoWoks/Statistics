@@ -57,3 +57,7 @@ To determine whether a distribution is continuous or discrete, ask: “What kind
 | Rolling a die               | {1, 2, 3, 4, 5, 6} | Discrete |
 | Number of emails in an hour | {0, 1, 2, ...}     | Discrete |
 | Students in a classroom     | Whole numbers only | Discrete |
+
+#### Key Signs:
+- If you can list the values (even if infinite), it’s likely discrete.
+- Uses a probability mass function (PMF).
