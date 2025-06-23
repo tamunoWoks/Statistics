@@ -21,3 +21,8 @@ A ***density function***, more precisely a ***probability density function (PDF)
 For a continuous probability distribution, the y-axis represents a probability density function.  
 A density function is just an equation to mathematically represent a continuous distribution. If you're familiar with calculus, the integral of the probability density function is the probability. Taking the integral is the same as calculating the area under the curve.  
 It's relatively easy to calculate the area underneath a uniform continuous probability distribution. These distributions look like rectangles, so the area is the base of the rectangle times the height of the rectangle.
+
+### Formal Definition:
+A probability density function 𝑓(𝑥) satisfies:
+1. Non-negativity:
+  - 𝑓(𝑥)≥0 for all 𝑥
