@@ -41,3 +41,6 @@ So we calculate the probability over an interval using the area under the densit
 | Area under curve                   | **Actual probability** between values          |
 | Total area                         | Always equals **1**                            |
 
+**NOTE:**
+This probability distribution looks like a discrete probability distribution. But in fact, it is still a **continuous distribution**. It's called a ***piece-wise continuous distribution***. It just means that the function is divided into parts.  
+
