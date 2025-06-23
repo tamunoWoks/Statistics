@@ -66,3 +66,10 @@ To determine whether a distribution is continuous or discrete, ask: “What kind
 - Takes any value in an interval (uncountably infinite)
 - Probabilities are assigned to ranges, not exact points
 - Often arises from measurement  
+
+**Examples:**
+| Scenario           | Values                           | Type       |
+| ------------------ | -------------------------------- | ---------- |
+| Height of a person | Any real number (e.g., 170.2 cm) | Continuous |
+| Time to run a race | 12.34 s, 12.35 s, etc.           | Continuous |
+| Temperature        | 21.0°C, 21.01°C, ...             | Continuous |
