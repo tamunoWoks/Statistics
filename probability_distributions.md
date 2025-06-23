@@ -77,3 +77,9 @@ To determine whether a distribution is continuous or discrete, ask: “What kind
 #### Key Signs:
 - If values can be infinitely precise (decimals), it’s likely continuous.
 - Uses a probability density function (PDF).  
+
+### Quick Test:
+Ask yourself: “Can this variable take fractional/decimal values?”
+- If no → likely discrete
+- If yes → likely continuous
+
