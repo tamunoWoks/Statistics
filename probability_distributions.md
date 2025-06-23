@@ -73,3 +73,7 @@ To determine whether a distribution is continuous or discrete, ask: “What kind
 | Height of a person | Any real number (e.g., 170.2 cm) | Continuous |
 | Time to run a race | 12.34 s, 12.35 s, etc.           | Continuous |
 | Temperature        | 21.0°C, 21.01°C, ...             | Continuous |
+
+#### Key Signs:
+- If values can be infinitely precise (decimals), it’s likely continuous.
+- Uses a probability density function (PDF).  
