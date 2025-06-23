@@ -46,7 +46,14 @@ This probability distribution looks like a discrete probability distribution. Bu
 
 ### How to Tell if a Distribution Is Continuous or Discrete:
 To determine whether a distribution is continuous or discrete, ask: “What kind of values can the random variable take?”
-1. **Discrete Distribution:**
+#### Discrete Distribution:
 - Takes countable values (finite or countably infinite)
 - Each value has a non-zero probability
 - Often arises from counting
+
+**Examples:**
+| Scenario                    | Values             | Type     |
+| --------------------------- | ------------------ | -------- |
+| Rolling a die               | {1, 2, 3, 4, 5, 6} | Discrete |
+| Number of emails in an hour | {0, 1, 2, ...}     | Discrete |
+| Students in a classroom     | Whole numbers only | Discrete |
