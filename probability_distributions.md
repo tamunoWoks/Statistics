@@ -49,7 +49,7 @@ To determine whether a distribution is continuous or discrete, ask: “What kind
 #### Discrete Distribution:
 - Takes countable values (finite or countably infinite)
 - Each value has a non-zero probability
-- Often arises from counting
+- Often arises from counting  
 
 **Examples:**
 | Scenario                    | Values             | Type     |
@@ -61,3 +61,8 @@ To determine whether a distribution is continuous or discrete, ask: “What kind
 #### Key Signs:
 - If you can list the values (even if infinite), it’s likely discrete.
 - Uses a probability mass function (PMF).
+
+#### Continuous Distribution:
+- Takes any value in an interval (uncountably infinite)
+- Probabilities are assigned to ranges, not exact points
+- Often arises from measurement  
