@@ -44,3 +44,6 @@ So we calculate the probability over an interval using the area under the densit
 **NOTE:**
 This probability distribution looks like a discrete probability distribution. But in fact, it is still a **continuous distribution**. It's called a ***piece-wise continuous distribution***. It just means that the function is divided into parts.  
 
+### How to Tell if a Distribution Is Continuous or Discrete:
+To determine whether a distribution is continuous or discrete, ask: “What kind of values can the random variable take?”
+
