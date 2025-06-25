@@ -47,4 +47,15 @@ A confounder is a variable that:
 - Affects the dependent variable (effect)
 - Creates a false association or masks a real one
 
+#### Real-World Example:
+Let’s say a study finds:
+- People who carry lighters are more likely to develop lung cancer.  
+
+At first, it may seem like carrying a lighter causes cancer. But a confounding variable exists:
+- Confounder: Smoking
+  - Smoking causes people to carry lighters.
+  - Smoking also causes lung cancer.  
+
+So, the true cause is smoking, not carrying lighters. Smoking confounds the relationship.
+
 
