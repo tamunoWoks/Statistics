@@ -22,3 +22,13 @@ Causation means one event directly affects another — a change in variable A ca
 - Pressing a gas pedal causes the car to move faster.
 
 **Key Point:** Causation implies a mechanism or cause-effect relationship, not just a pattern.
+
+### Correlation ≠ Causation
+Just because two variables move together doesn’t mean one causes the other.  
+They may be related due to:
+- Coincidence
+- A third variable (confounder)
+- Reverse causality
+
+Funny Example:
+Ice cream sales and shark attacks are positively correlated.
