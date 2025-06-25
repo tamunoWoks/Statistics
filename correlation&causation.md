@@ -58,4 +58,7 @@ At first, it may seem like carrying a lighter causes cancer. But a confounding v
 
 So, the true cause is smoking, not carrying lighters. Smoking confounds the relationship.
 
-
+#### Why Confounding Matters:
+- It can mislead conclusions in observational studies.
+- It makes a correlation look causal (or hides one).
+- It reduces validity unless controlled.
