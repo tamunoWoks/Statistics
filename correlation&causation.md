@@ -38,3 +38,6 @@ They may be related due to:
 **Example:**  
 Ice cream sales and shark attacks are positively correlated.
 - Why? Both increase in summer → season is a **confounding variable.**
+
+### Confounding Variable
+A **confounding variable** (also called a lurking variable or confounder) is a third variable that influences both the independent and dependent variables, distorting or hiding the true relationship between them.
