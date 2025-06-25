@@ -30,5 +30,6 @@ They may be related due to:
 - A third variable (confounder)
 - Reverse causality
 
-Funny Example:
+**Example:**  
 Ice cream sales and shark attacks are positively correlated.
+- Why? Both increase in summer → season is a **confounding variable.**
