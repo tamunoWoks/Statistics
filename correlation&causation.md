@@ -40,4 +40,11 @@ Ice cream sales and shark attacks are positively correlated.
 - Why? Both increase in summer → season is a **confounding variable.**
 
 ### Confounding Variable
-A **confounding variable** (also called a lurking variable or confounder) is a third variable that influences both the independent and dependent variables, distorting or hiding the true relationship between them.
+A **confounding variable** (also called a lurking variable or confounder) is a third variable that influences both the independent and dependent variables, distorting or hiding the true relationship between them.  
+
+A confounder is a variable that:
+- Affects the independent variable (cause)
+- Affects the dependent variable (effect)
+- Creates a false association or masks a real one
+
+
