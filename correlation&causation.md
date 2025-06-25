@@ -10,4 +10,5 @@ Measured with:
 
 **Example:**  
 - As temperature increases, ice cream sales increase → **positive correlation**
-- As speed increases, travel time decreases → **negative correlation**
+- As speed increases, travel time decreases → **negative correlation**  
+**Key Point:** Correlation only shows association, not cause.
