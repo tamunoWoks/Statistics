@@ -16,6 +16,9 @@ Measured with:
 
 ## Causation (Causal Relationship)
 Causation means one event directly affects another — a change in variable A causes a change in variable B.  
+
 **Example:**
 - Smoking causes an increased risk of lung cancer.
 - Pressing a gas pedal causes the car to move faster.
+
+**Key Point:** Causation implies a mechanism or cause-effect relationship, not just a pattern.
