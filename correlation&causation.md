@@ -62,3 +62,11 @@ So, the true cause is smoking, not carrying lighters. Smoking confounds the rela
 - It can mislead conclusions in observational studies.
 - It makes a correlation look causal (or hides one).
 - It reduces validity unless controlled.
+
+#### How to Handle Confounding:
+| Method                   | How It Helps                                      |
+| :----------------------- | :------------------------------------------------ |
+| **Randomization**        | Spreads confounders evenly across groups          |
+| **Control variables**    | Include the confounder in statistical models      |
+| **Stratification**       | Analyze within levels of the confounder           |
+| **Matched study design** | Compare similar individuals with/without exposure |
