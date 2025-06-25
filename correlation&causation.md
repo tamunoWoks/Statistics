@@ -15,7 +15,7 @@ Measured with:
 **Key Point:** Correlation only shows association, not cause.
 
 ## Causation (Causal Relationship)
-Causation means one event directly affects another — a change in variable A causes a change in variable B.
+Causation means one event directly affects another — a change in variable A causes a change in variable B.  
 **Example:**
 - Smoking causes an increased risk of lung cancer.
 - Pressing a gas pedal causes the car to move faster.
