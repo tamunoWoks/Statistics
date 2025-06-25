@@ -23,6 +23,11 @@ Causation means one event directly affects another — a change in variable A ca
 
 **Key Point:** Causation implies a mechanism or cause-effect relationship, not just a pattern.
 
+#### Establishing Causation Requires:
+- Controlled experiments
+- Randomized trials
+- Statistical modeling (e.g., regression + control variables)
+
 ### Correlation ≠ Causation
 Just because two variables move together doesn’t mean one causes the other.  
 They may be related due to:
