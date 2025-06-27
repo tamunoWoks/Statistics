@@ -26,4 +26,11 @@ In simple terms, Estimation answers questions like:
 | **Confidence Level** | Probability that the interval contains the true parameter (e.g. 95%) |
 
 ## Estimator
-An **estimator** is a statistical method or function that gives an approximate value (estimate) of an unknown parameter of a population (like mean, variance, proportion) using data from a sample. It is a formula or rule used to calculate an estimate of a population parameter based on sample data.
+An **estimator** is a statistical method or function that gives an approximate value (estimate) of an unknown parameter of a population (like mean, variance, proportion) using data from a sample. 
+It is a formula or rule used to calculate an estimate of a population parameter based on sample data.
+
+#### Example:
+Suppose you're trying to estimate the population mean 𝜇.
+- You collect a sample and compute the sample mean 𝑥ˉ
+- The sample mean 𝑥ˉ is the estimator for the population mean 𝜇.
+
