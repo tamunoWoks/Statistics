@@ -61,4 +61,5 @@ In simple terms, the MLE chooses the parameter value that makes the observed dat
 | **Efficient**               | Often reaches the best possible variance for an estimator |
 | **Asymptotically Unbiased** | Becomes accurate with large samples                       |
 
-
+## Laplace Estimator (Laplace Smoothing)
+The **Laplace Estimator**, also known as **Laplace Smoothing**, is a technique used to adjust probability estimates in categorical data, especially when some categories have zero counts.
