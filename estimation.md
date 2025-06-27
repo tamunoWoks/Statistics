@@ -82,3 +82,5 @@ With Laplace smoothing:
 P("free"∣ham) = (0+1)/(2+2) = 1/4  
 ✅ Now it's not zero, and your model can handle unseen words better.
 ​
+### MLE vs Laplace Estimator (Smoothing)
+Both Maximum Likelihood Estimation (MLE) and the Laplace Estimator are methods for estimating probabilities, but they serve different purposes and behave differently, especially when handling zero counts.
