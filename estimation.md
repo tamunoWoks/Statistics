@@ -49,3 +49,7 @@ Suppose you're trying to estimate the population mean 𝜇.
 | **Consistency**  | As the sample size increases, the estimator gets closer to the truth           |
 | **Efficiency**   | The estimator has the smallest possible variance among all unbiased estimators |
 | **Sufficiency**  | The estimator uses all the information in the data relevant to the parameter   |
+
+## Maximum Likelihood Estimator (MLE)
+The **Maximum Likelihood Estimator** is the value of a parameter that maximizes the likelihood of observing the given data.  
+In simple terms, the MLE chooses the parameter value that makes the observed data most probable.
