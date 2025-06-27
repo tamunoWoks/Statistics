@@ -34,3 +34,10 @@ Suppose you're trying to estimate the population mean 𝜇.
 - You collect a sample and compute the sample mean 𝑥ˉ
 - The sample mean 𝑥ˉ is the estimator for the population mean 𝜇.
 
+### Common Estimators:
+| Population Parameter        | Estimator (Based on Sample)                                  |
+| :-------------------------- | :----------------------------------------------------------- |
+| Mean $\mu$                  | Sample mean $\bar{x} = \frac{1}{n} \sum x_i$                 |
+| Proportion $p$              | Sample proportion $\hat{p} = \frac{x}{n}$                    |
+| Variance $\sigma^2$         | Sample variance $s^2 = \frac{1}{n-1} \sum (x_i - \bar{x})^2$ |
+| Standard deviation $\sigma$ | Sample standard deviation $s = \sqrt{s^2}$                   |
