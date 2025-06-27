@@ -7,6 +7,6 @@ In simple terms, Estimation answers questions like:
 
 ### Types of Estimation:
 | Type                    | Description                                                         |
-| ----------------------- | ------------------------------------------------------------------- |
+| :---------------------- | :------------------------------------------------------------------ |
 | **Point Estimation**    | Gives a **single value** as an estimate of the population parameter |
 | **Interval Estimation** | Gives a **range of values** (called a confidence interval)          |
