@@ -16,3 +16,11 @@ In simple terms, Estimation answers questions like:
 - Estimation allows us to make data-driven decisions based on samples.
 - It's at the core of statistical inference.
 
+#### Key Concepts in Estimation:
+| Term                 | Meaning                                                              |
+| :------------------- | :------------------------------------------------------------------- |
+| **Estimator**        | A rule/formula used to calculate an estimate (e.g. $\bar{x}$)        |
+| **Estimate**         | The actual value calculated from a sample                            |
+| **Bias**             | If the estimator systematically over- or underestimates the truth    |
+| **Efficiency**       | How close estimates are to the true value across many samples        |
+| **Confidence Level** | Probability that the interval contains the true parameter (e.g. 95%) |
