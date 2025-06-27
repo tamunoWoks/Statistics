@@ -53,3 +53,12 @@ Suppose you're trying to estimate the population mean 𝜇.
 ## Maximum Likelihood Estimator (MLE)
 The **Maximum Likelihood Estimator** is the value of a parameter that maximizes the likelihood of observing the given data.  
 In simple terms, the MLE chooses the parameter value that makes the observed data most probable.
+
+#### Why Use MLE?
+| Feature                     | Benefit                                                   |
+| :-------------------------- | :-------------------------------------------------------- |
+| **General**                 | Works for many types of distributions                     |
+| **Efficient**               | Often reaches the best possible variance for an estimator |
+| **Asymptotically Unbiased** | Becomes accurate with large samples                       |
+
+
