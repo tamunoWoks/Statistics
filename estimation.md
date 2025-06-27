@@ -41,3 +41,11 @@ Suppose you're trying to estimate the population mean 𝜇.
 | Proportion $p$              | Sample proportion $\hat{p} = \frac{x}{n}$                    |
 | Variance $\sigma^2$         | Sample variance $s^2 = \frac{1}{n-1} \sum (x_i - \bar{x})^2$ |
 | Standard deviation $\sigma$ | Sample standard deviation $s = \sqrt{s^2}$                   |
+
+###  Properties of a Good Estimator:
+| Property         | Meaning                                                                        |
+| :--------------- | :----------------------------------------------------------------------------- |
+| **Unbiasedness** | The estimator's expected value equals the true parameter                       |
+| **Consistency**  | As the sample size increases, the estimator gets closer to the truth           |
+| **Efficiency**   | The estimator has the smallest possible variance among all unbiased estimators |
+| **Sufficiency**  | The estimator uses all the information in the data relevant to the parameter   |
