@@ -24,3 +24,6 @@ In simple terms, Estimation answers questions like:
 | **Bias**             | If the estimator systematically over- or underestimates the truth    |
 | **Efficiency**       | How close estimates are to the true value across many samples        |
 | **Confidence Level** | Probability that the interval contains the true parameter (e.g. 95%) |
+
+## Estimator
+An **estimator** is a statistical method or function that gives an approximate value (estimate) of an unknown parameter of a population (like mean, variance, proportion) using data from a sample. It is a formula or rule used to calculate an estimate of a population parameter based on sample data.
