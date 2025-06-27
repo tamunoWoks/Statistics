@@ -84,3 +84,14 @@ P("free"∣ham) = (0+1)/(2+2) = 1/4
 ​
 ### MLE vs Laplace Estimator (Smoothing)
 Both Maximum Likelihood Estimation (MLE) and the Laplace Estimator are methods for estimating probabilities, but they serve different purposes and behave differently, especially when handling zero counts.
+| Feature                        | **Maximum Likelihood Estimation (MLE)**                        | **Laplace Estimator (Laplace Smoothing)**                              |
+| :----------------------------- | :------------------------------------------------------------- | :--------------------------------------------------------------------- |
+| **Definition**                 | Estimates probabilities from raw observed frequencies          | Adjusts observed counts by adding 1 to avoid zeros                     |
+| **Formula**                    | $P(x_i \mid y) = \frac{\text{count}(x_i, y)}{\text{count}(y)}$ | $P(x_i \mid y) = \frac{\text{count}(x_i, y) + 1}{\text{count}(y) + k}$ |
+| **Handles Zero Counts?**       | ❌ No — assigns probability 0 to unseen events                  | ✅ Yes — never assigns zero probability                                 |
+| **Bias**                       | Unbiased                                                       | Slight upward bias (overestimates rare events slightly)                |
+| **Best Used When**             | Dataset is large and well-represented                          | Dataset is small or sparse, or in classification tasks                 |
+| **Common Use Cases**           | General statistical modeling, MLE-based models                 | Naive Bayes classifiers, NLP, smoothing categorical data               |
+| **Robustness to Sparse Data**  | ❌ Not robust — zero probabilities can break the model          | ✅ Robust — smooths out small or missing counts                         |
+| **Probability Interpretation** | Direct reflection of observed frequencies                      | Smoothed estimate — adjusts for unobserved events                      |
+| **Alternative Name**           | –                                                              | Add-one smoothing                                                      |
