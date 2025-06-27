@@ -63,4 +63,22 @@ In simple terms, the MLE chooses the parameter value that makes the observed dat
 
 ## Laplace Estimator (Laplace Smoothing)
 The **Laplace Estimator**, also known as **Laplace Smoothing**, is a technique used to adjust probability estimates in categorical data, especially when some categories have zero counts.  
-The LaPlace Estimator adds a small constant (usually 1) to each count to avoid zero probabilities.
+In many applications (like naive Bayes classifiers), we estimate entire probabilities that becomes 0, which can break your model (since multiplying probabilities causes everything to be zero). The LaPlace Estimator adds a small constant (usually 1) to each count to avoid zero probabilities.
+
+####  Example:
+Suppose you're building a spam classifier and you have this:
+| Word    | Spam Emails | Ham Emails |
+| :------ | :---------- | :--------- |
+| "free"  | 3           | 0          |
+| "hello" | 1           | 2          |
+
+Without smoothing:
+  - 𝑃("free"∣ham) = 0 → Bad for multiplication!
+
+With Laplace smoothing:
+  - Total words in ham = 2
+  - Vocabulary size 𝑘 = 2
+
+P("free"∣ham) = (0+1)/(2+2) = 1/4  
+✅ Now it's not zero, and your model can handle unseen words better.
+​
