@@ -23,3 +23,11 @@ Then: 𝑥ˉ = (70+75+80+85+90)/5 = 400/5 = 80.
 ❌ Avoid the mean when:
 - The dataset contains extreme outliers
 - Data is categorical or ordinal
+
+### Summary:
+| Term                   | Mean (Average)                                   |
+| :--------------------- | :----------------------------------------------- |
+| Purpose                | Measures **central tendency**                    |
+| Formula                | $\bar{x} = \frac{\sum x_i}{n}$                   |
+| Sensitive to outliers? | ✅ Yes                                            |
+| Common in              | Descriptive stats, probability, machine learning |
