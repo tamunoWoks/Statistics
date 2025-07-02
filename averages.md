@@ -32,3 +32,6 @@ Then: $\bar{x}$ = (70+75+80+85+90)/5 = 400/5 = 80.
 | Formula                | $\bar{x} = \frac{\sum x_i}{n}$                   |
 | Sensitive to outliers? | ✅ Yes                                            |
 | Common in              | Descriptive stats, probability, machine learning |
+
+## Median
+The **median** is the value in the center of a sorted list of numbers. It divides the data into the lower 50% and the upper 50%, or simply it's the middle value when the data is ordered.
