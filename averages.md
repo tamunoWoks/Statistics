@@ -65,3 +65,8 @@ A dataset can have:
 - More than two → Multimodal
 - No mode → if all values occur with the same frequency
 
+#### When to Use the Mode:
+✅ Use the mode when:
+- You want the most common category (e.g., shoe size, most popular product)
+- You're analyzing categorical data
+- Mean/median are not meaningful
