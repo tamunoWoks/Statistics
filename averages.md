@@ -35,3 +35,9 @@ Then: $\bar{x}$ = (70+75+80+85+90)/5 = 400/5 = 80.
 
 ## Median
 The **median** is the value in the center of a sorted list of numbers. It divides the data into the lower 50% and the upper 50%, or simply it's the middle value when the data is ordered.
+
+#### How to Calculate the Median:
+1. Arrange the data in ascending order.
+2. If the number of values 𝑛 is:
+  - Odd → median is the middle value
+  - Even → median is the average of the two middle values
