@@ -47,3 +47,11 @@ The **median** is the value in the center of a sorted list of numbers. It divide
 - Your data is skewed (e.g. income)
 - You have outliers
 - You are working with ordinal or ranked data
+
+### Summary
+| Term               | Median                        |
+| :----------------- | :---------------------------- |
+| Purpose            | Measures **central value**    |
+| Method             | Middle of **sorted** data     |
+| Outlier resistant? | ✅ Yes                         |
+| Common in          | Skewed distributions, surveys |
