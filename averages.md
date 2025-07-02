@@ -70,3 +70,11 @@ A dataset can have:
 - You want the most common category (e.g., shoe size, most popular product)
 - You're analyzing categorical data
 - Mean/median are not meaningful
+
+### Summary
+| Term                   | Mode                                   |
+| :--------------------- | :------------------------------------- |
+| What                   | Most **frequent** value                |
+| Works on               | **Numerical** and **categorical** data |
+| Resistant to outliers? | ✅ Yes                                  |
+| Good for               | Finding **most common response**       |
