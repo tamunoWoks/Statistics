@@ -5,3 +5,11 @@ The **mean** of a set of values is the sum of all the values divided by the numb
 If test scores are: 70, 75, 80, 85, 90.  
 Then: 𝑥ˉ = (70+75+80+85+90)/5 = 400/5 = 80.  
 ✅ The average score is 80.
+
+### Types of Mean:
+| Type                | Description                                    |
+| :------------------ | :--------------------------------------------- |
+| **Arithmetic Mean** | Regular average (most common)                  |
+| **Weighted Mean**   | Accounts for importance/weight of values       |
+| **Geometric Mean**  | Used in growth rates, percentages, and finance |
+| **Harmonic Mean**   | Used in rates, like speed or efficiency        |
