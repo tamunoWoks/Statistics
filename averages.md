@@ -34,7 +34,7 @@ Then: $\bar{x}$ = (70+75+80+85+90)/5 = 400/5 = 80.
 | Common in              | Descriptive stats, probability, machine learning |
 
 ## Median
-The **median** is the value in the center of a sorted list of numbers. It divides the data into the lower 50% and the upper 50%, or simply it's the middle value when the data is ordered.
+The **median** is the value in the center of a sorted list of numbers. It divides the data into the lower 50% and the upper 50%.
 
 #### How to Calculate the Median:
 1. Arrange the data in ascending order.
@@ -53,5 +53,9 @@ The **median** is the value in the center of a sorted list of numbers. It divide
 | :----------------- | :---------------------------- |
 | Purpose            | Measures **central value**    |
 | Method             | Middle of **sorted** data     |
-| Outlier resistant? | ✅ Yes                         |
+| Outlier resistant? | ✅ Yes                        |
 | Common in          | Skewed distributions, surveys |
+
+## Mode
+The **mode** is the most common or most repeated value in a dataset. It is a measure of central tendency, just like the mean and median but it is the value that appears most frequently in a dataset.
+
