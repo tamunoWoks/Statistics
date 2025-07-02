@@ -41,3 +41,9 @@ The **median** is the value in the center of a sorted list of numbers. It divide
 2. If the number of values 𝑛 is:
     - Odd → median is the middle value
     - Even → median is the average of the two middle values
+
+#### When to Use the Median:
+✅ Use the median when:
+- Your data is skewed (e.g. income)
+- You have outliers
+- You are working with ordinal or ranked data
