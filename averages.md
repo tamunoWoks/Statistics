@@ -57,5 +57,11 @@ The **median** is the value in the center of a sorted list of numbers. It divide
 | Common in          | Skewed distributions, surveys |
 
 ## Mode
-The **mode** is the most common or most repeated value in a dataset. It is a measure of central tendency, just like the mean and median but it is the value that appears most frequently in a dataset.
+The **mode** is the most common or most repeated value in a dataset. It is a measure of central tendency, just like the mean and median but it is the value that appears most frequently in a dataset.  
+
+A dataset can have:
+- One mode → Unimodal
+- Two modes → Bimodal
+- More than two → Multimodal
+- No mode → if all values occur with the same frequency
 
