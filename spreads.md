@@ -38,6 +38,13 @@ $$
 
 ✅ The variance is **4**
 
+#### Summary:
+| Term       | Variance                                       |
+| :--------- | :--------------------------------------------- |
+| Measures   | **Spread** of data from the mean               |
+| Formula    | $\\frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2$    |
+| Units      | **Squared units** of the data                  |
+| Related to | Standard deviation (just take the square root) |
 
 
 
