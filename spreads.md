@@ -17,4 +17,9 @@ $$
 | $x_i$      | Data Value          | The $i$-th individual data point in the population.                             |
 | $\mu$      | Population Mean     | The average of all data values in the population: $\mu = \frac{1}{N} \sum x_i$. |
 
+- **Larger variance** = data is more spread out.
+- **Smaller variance** = data is more tightly clustered around the mean.
+
+
+
 
