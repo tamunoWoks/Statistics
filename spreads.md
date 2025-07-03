@@ -3,6 +3,7 @@ In statistics, Variance is a measure of how spread out or dispersed the values i
 
 ### Definition:
 The population variance $\sigma^2$ is:  
+
 $$
 \sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2
 $$
