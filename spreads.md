@@ -46,7 +46,7 @@ $$
 | Units      | **Squared units** of the data                  |
 | Related to | Standard deviation (just take the square root) |
 
-
+## Standard Deviation
 
 
 
