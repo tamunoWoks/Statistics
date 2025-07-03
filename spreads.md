@@ -20,6 +20,9 @@ $$
 - **Larger variance** = data is more spread out.
 - **Smaller variance** = data is more tightly clustered around the mean.
 
+#### Example:
+Let’s say your data is: 2, 4, 4, 4, 5, 5, 7, 9.
+Mean $\𝑥ˉ=5 $
 
 
 
