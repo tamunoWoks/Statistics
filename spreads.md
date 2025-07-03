@@ -22,7 +22,7 @@ $$
 
 #### Example:
 Let’s say your data is: 2, 4, 4, 4, 5, 5, 7, 9.
-Mean $\𝑥ˉ=5 $
+Mean $\bar{𝑥} = 5 $
 
 
 
