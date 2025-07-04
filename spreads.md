@@ -75,15 +75,5 @@ Where:
 - 𝑠 = sample standard deviation
 - 𝜇 = population mean
 - $\bar{x}$ = sample mean
-
-𝑁
-N or 
-𝑛
-n = number of values
-
-𝑥
-𝑖
-x 
-i
-​
-  = each individual value
+- 𝑁 or 𝑛 = number of values
+- 𝑥_𝑖 = each individual value
