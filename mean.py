@@ -14,4 +14,7 @@ def mean(data):
     # Count the number of elements
     count = len(data)
 
+    # Compute and return the mean
+    return total/count
+
     
