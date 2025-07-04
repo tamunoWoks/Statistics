@@ -11,3 +11,7 @@ def variance(data):
     Variance measures how far each number in the list is from the mean.
     Formula: sum((x - mean)^2) / n
     """
+
+    # Handle edge case (empty list):
+    if not data:
+        return None  # Handle empty list
