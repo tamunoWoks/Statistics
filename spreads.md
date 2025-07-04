@@ -53,6 +53,8 @@ $$
 | Units      | **Squared units** of the data                  |
 | Related to | Standard deviation (just take the square root) |
 
+
+
 ## Standard Deviation
 In statistics, **Standard deviation** is another measure of how spread out the values in a dataset are around the mean. It tells you, on average, how far each value is from the center (mean) of the data.
 
@@ -102,8 +104,9 @@ Sample standard deviation:   $s = \sqrt{8} \approx 2.83$
 | Units            | Same as data                                            |
 | Use Cases        | Risk (finance), variability (science), uncertainty (ML) |
 
-## Derived Formula for Variance
 
+
+## Derived Formula for Variance
 The **population variance** measures the average squared deviation of each data point from the population mean. The **derived (or computational) formula** is an efficient way to calculate variance without needing to compute the mean first.
 
 $$
@@ -121,6 +124,8 @@ $$
 - Especially useful for **large datasets** or when **streaming data**
 
 >  This formula is algebraically equivalent to the standard definition:   $\sigma^2 = \frac{1}{N} \sum (x_i - \mu)^2$, but more efficient to compute.
+
+
 
 ## Standard Score (z)
 In statistics, the **standard score**, also known as the **z-score**, indicates how many **standard deviations** a data point is from the **mean** of a distribution.
