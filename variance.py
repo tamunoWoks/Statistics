@@ -24,3 +24,5 @@ def variance(data):
 
     # Return average of squared differences:
     return sum(squared_diffs) / len(data)
+
+print(variance(data3))
