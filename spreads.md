@@ -87,4 +87,9 @@ Deviations = $(4 - 8)^2 + (6 - 8)^2 + (8 - 8)^2 + (10 - 8)^2 + (12 - 8)^2 = 32$
 
 Sample Variance:  $s^2 = \frac{32}{5 - 1} = 8$
 
-Sample standard deviation:  $s = \sqrt{8} \approx 2.83$
+Sample standard deviation:   $s = \sqrt{8} \approx 2.83$
+
+#### Tips:
+- **High standard deviation:**	Data is widely spread from the mean
+- **Low standard deviation:**	Data is closely clustered around the mean
+- **Zero standard deviation:**	All values are identical
