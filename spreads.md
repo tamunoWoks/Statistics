@@ -120,6 +120,5 @@ $$
 - Offers a **faster** and **numerically stable** method for calculating variance  
 - Especially useful for **large datasets** or when **streaming data**
 
->  This formula is algebraically equivalent to the standard definition:  
-> $\sigma^2 = \frac{1}{N} \sum (x_i - \mu)^2$, but more efficient to compute.
+>  This formula is algebraically equivalent to the standard definition: $\sigma^2 = \frac{1}{N} \sum (x_i - \mu)^2$, but more efficient to compute.
 
