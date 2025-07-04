@@ -54,7 +54,11 @@ $$
 | Related to | Standard deviation (just take the square root) |
 
 ## Standard Deviation
-In statistics, **Standard deviation** is a measure of how spread out the values in a dataset are around the mean. It tells you, on average, how far each value is from the center (mean) of the data.
+In statistics, **Standard deviation** is another measure of how spread out the values in a dataset are around the mean. It tells you, on average, how far each value is from the center (mean) of the data.
+
+#### Definition:
+It is the square root of the variance.
+- For a population:
 
 
 
