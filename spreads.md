@@ -64,4 +64,9 @@ $$
 \sigma = \sqrt{ \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2 }
 $$
 
+- For a sample:
+
+$$
+s = \sqrt{ \frac{1}{n - 1} \sum_{i=1}^{n} (x_i - \bar{x})^2 }
+$$
 
