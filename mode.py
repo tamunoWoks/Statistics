@@ -26,3 +26,5 @@ def mode(data):
     if len(modes) == 1:
         return modes[0]
     return modes
+
+print(mode(data1))
