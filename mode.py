@@ -1,3 +1,5 @@
+data1=[1,2,5,10,-20,5,5,1,1]
+
 def mode(data):
     """
     Returns the mode(s) of a list of numbers.
