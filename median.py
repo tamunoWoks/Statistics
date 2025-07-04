@@ -8,3 +8,10 @@ def median(data):
     # Handle edge case: empty list
     if not data:
         return None  # Could also raise a ValueError if preferred
+
+    # Step 1: Sort the data (creates a new sorted list)
+    sorted_data = sorted(data)
+
+    # Step 2: Calculate the midpoint index
+    n = len(sorted_data)
+    mid = n // 2
