@@ -21,3 +21,8 @@ def mode(data):
 
     # Get all elements with the highest frequency
     modes = [key for key, value in freq.items() if value == max_freq]
+
+    # Return single value if only one mode, else return list of modes
+    if len(modes) == 1:
+        return modes[0]
+    return modes
