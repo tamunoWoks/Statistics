@@ -70,3 +70,20 @@ $$
 s = \sqrt{ \frac{1}{n - 1} \sum_{i=1}^{n} (x_i - \bar{x})^2 }
 $$
 
+Where:
+- 𝜎 = population standard deviation
+- 𝑠 = sample standard deviation
+- 𝜇 = population mean
+- $\bar{x}$ = sample mean
+
+𝑁
+N or 
+𝑛
+n = number of values
+
+𝑥
+𝑖
+x 
+i
+​
+  = each individual value
