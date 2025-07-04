@@ -106,8 +106,6 @@ Sample standard deviation:   $s = \sqrt{8} \approx 2.83$
 
 The **population variance** measures the average squared deviation of each data point from the population mean. The **derived (or computational) formula** is an efficient way to calculate variance without needing to compute the mean first.
 
-#### Definition
-
 $$
 \sigma^2 = \frac{1}{N} \left( \sum x_i^2 - \frac{(\sum x_i)^2}{N} \right)
 $$
