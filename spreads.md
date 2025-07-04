@@ -2,7 +2,7 @@
 In statistics, **Variance** is a measure of how spread out or dispersed the values in a dataset are from the mean. It tells you how much the data varies.
 
 ### Definition:
-For a set of values $x_1$ ,$x_2$ ,...,$x_n$  with mean $\bar{x}$ , the sample variance $\s^2$ is:
+For a set of values $x_1$ ,$x_2$ ,...,$x_n$  with mean $\bar{x}$ , the sample variance $s^2$ is:
 
 $$
 s^2 = \frac{1}{n - 1} \sum_{i=1}^{n} (x_i - \bar{x})^2
