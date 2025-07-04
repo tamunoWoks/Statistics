@@ -125,24 +125,22 @@ $$
 ## Standard Score (z)
 In statistics, the **standard score**, also known as the **z-score**, indicates how many **standard deviations** a data point is from the **mean** of a distribution.
 
-### Formula:
-
 $$
 z = \frac{x - \mu}{\sigma}
 $$
 
-### Where:
+#### Where:
 - $z$ = standard score  
 - $x$ = individual data point  
 - $\mu$ = population mean  
 - $\sigma$ = population standard deviation  
 
-### Interpretation:
+#### Interpretation:
 - A **z-score of 0** means the value is exactly at the mean.
 - A **positive z-score** means the value is **above** the mean.
 - A **negative z-score** means the value is **below** the mean.
 
-### Use Cases:
+#### Use Cases:
 - Comparing values from **different distributions**
 - Identifying **outliers**
 - Standardizing data for **normal distribution** analysis
