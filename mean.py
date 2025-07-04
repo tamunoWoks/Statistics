@@ -1,1 +1,5 @@
-
+def mean(data):
+    """
+    Returns the mean (average) of a list of numbers.
+    The mean is calculated as the sum of the numbers divided by the count.
+    """
