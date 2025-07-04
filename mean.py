@@ -7,3 +7,7 @@ def mean(data):
     # Handle edge case: empty list
     if not data:
         return None  # Could also raise a ValueError if preferred
+
+    # Calculate the total sum of the list
+    total = sum(data)
+
