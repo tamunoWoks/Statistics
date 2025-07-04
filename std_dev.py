@@ -18,3 +18,10 @@ def variance(data):
     mu = mean(data)  # Compute the mean of the dataset
     squared_diffs = [(x - mu) ** 2 for x in data]  # Square of each deviation from the mean
     return mean(squared_diffs)  # Average of squared deviations
+
+def stddev(data):
+    """
+    Calculates the standard deviation of a list of numbers.
+    Standard deviation is the square root of the variance.
+    """
+    return sqrt(variance(data))  # Use math.sqrt() to get the standard deviation
