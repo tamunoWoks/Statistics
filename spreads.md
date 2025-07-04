@@ -85,4 +85,4 @@ Mean: $\bar{x}$ = 8.
 
 Deviations = $(4 - 8)^2 + (6 - 8)^2 + (8 - 8)^2 + (10 - 8)^2 + (12 - 8)^2 = 32$
 
-Sample Variance = $s^2 = \frac{32}{5 - 1} = 8$
+Sample Variance: $s^2 = \frac{32}{5 - 1} = 8$
