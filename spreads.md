@@ -77,3 +77,8 @@ Where:
 - $\bar{x}$ = sample mean
 - 𝑁 or 𝑛 = number of values
 - $𝑥_𝑖$ = each individual value
+
+##### Example:
+Data:  
+4, 6, 8, 10, 12.  
+Mean: $\bar{x}$ = 8
