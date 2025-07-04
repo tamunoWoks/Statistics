@@ -25,3 +25,6 @@ def stddev(data):
     Standard deviation is the square root of the variance.
     """
     return sqrt(variance(data))  # Use math.sqrt() to get the standard deviation
+
+# Print output
+print("Standard Deviation:", stddev(data3))
