@@ -101,3 +101,27 @@ Sample standard deviation:   $s = \sqrt{8} \approx 2.83$
 | Formula (sample) | $s = \sqrt{ \frac{1}{n-1} \sum (x_i - \bar{x})^2 }$     |
 | Units            | Same as data                                            |
 | Use Cases        | Risk (finance), variability (science), uncertainty (ML) |
+
+## 📐 Derived Formula for Variance
+
+The **population variance** measures the average squared deviation of each data point from the population mean. The **derived (or computational) formula** is an efficient way to calculate variance without needing to compute the mean first.
+
+### Formula
+
+$$
+\sigma^2 = \frac{1}{N} \left( \sum x_i^2 - \frac{(\sum x_i)^2}{N} \right)
+$$
+
+### Where:
+- \( \sigma^2 \) = population variance  
+- \( N \) = number of data points  
+- \( \sum x_i \) = sum of all data points  
+- \( \sum x_i^2 \) = sum of the squares of all data points  
+
+### Purpose:
+- Offers a **faster** and **numerically stable** method for calculating variance  
+- Especially useful for **large datasets** or when **streaming data**
+
+>  This formula is algebraically equivalent to the standard definition:  
+> \( \sigma^2 = \frac{1}{N} \sum (x_i - \mu)^2 \), but more efficient to compute.
+
