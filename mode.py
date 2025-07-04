@@ -16,3 +16,6 @@ def mode(data):
 
     # Find the highest frequency:
     max_freq = max(freq.values())
+
+    # Get all elements with the highest frequency
+    modes = [key for key, value in freq.items() if value == max_freq]
