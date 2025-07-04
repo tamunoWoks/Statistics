@@ -76,4 +76,4 @@ Where:
 - 𝜇 = population mean
 - $\bar{x}$ = sample mean
 - 𝑁 or 𝑛 = number of values
-- 𝑥_𝑖 = each individual value
+- $\𝑥_𝑖$ = each individual value
