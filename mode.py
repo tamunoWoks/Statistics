@@ -8,3 +8,8 @@ def mode(data):
     # Handle edge case (empty list):
     if not data:
         return None  # Or raise ValueError if preferred
+
+    # Count occurrences using a dictionary
+    freq = {}
+    for num in data:
+        freq[num] = freq.get(num, 0) + 1
