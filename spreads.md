@@ -111,15 +111,15 @@ $$
 $$
 
 #### Where:
-- \( \sigma^2 \) = population variance  
-- \( N \) = number of data points  
-- \( \sum x_i \) = sum of all data points  
-- \( \sum x_i^2 \) = sum of the squares of all data points  
+- $\sigma^2$ = population variance  
+- $N$ = number of data points  
+- $\sum x_i$ = sum of all data points  
+- $\sum x_i^2 $ = sum of the squares of all data points  
 
 #### Purpose:
 - Offers a **faster** and **numerically stable** method for calculating variance  
 - Especially useful for **large datasets** or when **streaming data**
 
 >  This formula is algebraically equivalent to the standard definition:  
-> \( \sigma^2 = \frac{1}{N} \sum (x_i - \mu)^2 \), but more efficient to compute.
+> $\sigma^2 = \frac{1}{N} \sum (x_i - \mu)^2$, but more efficient to compute.
 
