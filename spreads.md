@@ -93,3 +93,11 @@ Sample standard deviation:   $s = \sqrt{8} \approx 2.83$
 - **High standard deviation:**	Data is widely spread from the mean
 - **Low standard deviation:**	Data is closely clustered around the mean
 - **Zero standard deviation:**	All values are identical
+
+### Summary:
+| Term             | Standard Deviation                                      |
+| :--------------- | :------------------------------------------------------ |
+| Measures         | Average spread of data from the mean                    |
+| Formula (sample) | $s = \sqrt{ \frac{1}{n-1} \sum (x_i - \bar{x})^2 }$     |
+| Units            | Same as data                                            |
+| Use Cases        | Risk (finance), variability (science), uncertainty (ML) |
