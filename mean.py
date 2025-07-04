@@ -11,3 +11,7 @@ def mean(data):
     # Calculate the total sum of the list
     total = sum(data)
 
+    # Count the number of elements
+    count = len(data)
+
+    
