@@ -60,5 +60,8 @@ In statistics, **Standard deviation** is another measure of how spread out the v
 It is the square root of the variance.
 - For a population:
 
+$$
+\sigma = \sqrt{ \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2 }
+$$
 
 
