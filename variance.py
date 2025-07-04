@@ -21,3 +21,6 @@ def variance(data):
     
     # Square the differences from mean:
     squared_diffs = [(x - m) ** 2 for x in data]
+
+    # Return average of squared differences:
+    return sum(squared_diffs) / len(data)
