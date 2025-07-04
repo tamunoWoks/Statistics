@@ -15,3 +15,7 @@ def variance(data):
     # Handle edge case (empty list):
     if not data:
         return None  # Handle empty list
+
+    # Compute mean:
+    m = mean(data)
+    
