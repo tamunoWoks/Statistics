@@ -102,7 +102,7 @@ Sample standard deviation:   $s = \sqrt{8} \approx 2.83$
 | Units            | Same as data                                            |
 | Use Cases        | Risk (finance), variability (science), uncertainty (ML) |
 
-## 📐 Derived Formula for Variance
+## Derived Formula for Variance
 
 The **population variance** measures the average squared deviation of each data point from the population mean. The **derived (or computational) formula** is an efficient way to calculate variance without needing to compute the mean first.
 
@@ -121,4 +121,32 @@ $$
 - Especially useful for **large datasets** or when **streaming data**
 
 >  This formula is algebraically equivalent to the standard definition:   $\sigma^2 = \frac{1}{N} \sum (x_i - \mu)^2$, but more efficient to compute.
+
+## Standard Score (z)
+In statistics, the **standard score**, also known as the **z-score**, indicates how many **standard deviations** a data point is from the **mean** of a distribution.
+
+### Formula:
+
+$$
+z = \frac{x - \mu}{\sigma}
+$$
+
+### Where:
+- $z$ = standard score  
+- $x$ = individual data point  
+- $\mu$ = population mean  
+- $\sigma$ = population standard deviation  
+
+### Interpretation:
+- A **z-score of 0** means the value is exactly at the mean.
+- A **positive z-score** means the value is **above** the mean.
+- A **negative z-score** means the value is **below** the mean.
+
+### Use Cases:
+- Comparing values from **different distributions**
+- Identifying **outliers**
+- Standardizing data for **normal distribution** analysis
+
+> The z-score transforms data into a **standard normal distribution** with mean 0 and standard deviation 1.
+
 
