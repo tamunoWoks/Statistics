@@ -73,8 +73,10 @@ For example:
 ### How to Calculate a Percentile:
 1. **Sort** the dataset in ascending order.
 2. Calculate the **rank position** using:
+3. 
    $$
    R = \frac{k}{100} \times (n + 1)
-   $$
+   $$  
+   
    where \( k \) is the desired percentile and \( n \) is the number of data points.
-3. **Interpolate** if necessary.
+4. **Interpolate** if necessary.
