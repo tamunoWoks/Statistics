@@ -18,5 +18,5 @@ In Statistics **Outliers** are data points that are significantly different from
 If \( |z| > 3 \), the value may be considered an outlier.  
 
 \[
-z = \frac{x - \mu}{\sigma}
+z = $\frac{x - $\mu}{$\sigma}
 \]
