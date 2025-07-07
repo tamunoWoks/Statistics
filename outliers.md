@@ -49,3 +49,6 @@ ${IQR} = Q_3 - Q_1$
 4. **Q3** is the median of the **upper half**.
 
 ![quartile](https://github.com/tamunoWoks/Statistics/blob/main/images/quartile.jfif)
+---
+## Percentiles 
+In Statistics, **Percentiles** are values that divide a dataset into **100 equal parts**. A given percentile indicates the value below which a certain percentage of data falls.
