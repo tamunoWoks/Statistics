@@ -69,3 +69,12 @@ For example:
 - **Exam scores**: “You’re in the 80th percentile” means you scored better than 80% of students.
 - **Health data**: Baby growth charts use percentiles for weight/height.
 - **Data analysis**: Identifying skew, outliers, and spread.
+
+### How to Calculate a Percentile:
+1. **Sort** the dataset in ascending order.
+2. Calculate the **rank position** using:
+   $$
+   R = \frac{k}{100} \times (n + 1)
+   $$
+   where \( k \) is the desired percentile and \( n \) is the number of data points.
+3. **Interpolate** if necessary.
