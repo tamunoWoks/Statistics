@@ -75,3 +75,5 @@ For example:
 2. Calculate the **rank position** using: $R = \frac{k}{100} \times (n + 1)$  
    -    where `k` is the desired percentile and `n` is the number of data points.
 4. **Interpolate** if necessary.
+
+> 📌 Percentiles help to **understand distribution**, compare relative standing, and detect **extremes** in data.
