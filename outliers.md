@@ -41,3 +41,8 @@ ${IQR} = Q_3 - Q_1$
 - Represents the **range of the middle 50%** of the data
 - Useful for detecting **outliers**
 
+### How to Calculate Quartiles:
+1. **Sort** the dataset in ascending order.
+2. **Q2 (Median)** splits the data in half.
+3. **Q1** is the median of the **lower half** (not including Q2 if odd number of values).
+4. **Q3** is the median of the **upper half**.
