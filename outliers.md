@@ -16,6 +16,7 @@ In Statistics **Outliers** are data points that are significantly different from
 
 #### 1. **Using the Z-score**:
 If \( |z| > 3 \), the value may be considered an outlier.  
+
 $$
 z = \frac{x - \mu}{\sigma}
 $$
