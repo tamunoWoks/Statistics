@@ -16,3 +16,9 @@ In Statistics **Outliers** are data points that are significantly different from
 1. Using the Z-score
 2. Using the IQR (Interquartile Range)
 3. Box plots.
+
+### What to Do with Outliers:
+- **Investigate**: Is it an error or a valid extreme case?
+- **Remove**: If it’s a mistake or irrelevant
+- **Keep**: If it provides meaningful insight
+- **Transform**: Apply techniques like log transformation or robust statistics
