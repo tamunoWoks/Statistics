@@ -22,3 +22,5 @@ In Statistics **Outliers** are data points that are significantly different from
 - **Remove**: If it’s a mistake or irrelevant
 - **Keep**: If it provides meaningful insight
 - **Transform**: Apply techniques like log transformation or robust statistics
+
+> ⚠️ Always analyze the **context** before removing outliers.
