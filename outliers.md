@@ -53,3 +53,7 @@ ${IQR} = Q_3 - Q_1$
 ## Percentiles 
 In Statistics, **Percentiles** are values that divide a dataset into **100 equal parts**. A given percentile indicates the value below which a certain percentage of data falls.
 > The **k-th percentile** is the value **below which k%** of the data falls.
+
+For example:
+- The **25th percentile (P25)** means 25% of the data is less than or equal to that value.
+- The **90th percentile (P90)** means 90% of the data lies below that value.
