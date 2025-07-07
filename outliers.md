@@ -47,3 +47,5 @@ ${IQR} = Q_3 - Q_1$
 2. **Q2 (Median)** splits the data in half.
 3. **Q1** is the median of the **lower half** (not including Q2 if odd number of values).
 4. **Q3** is the median of the **upper half**.
+
+![quartile](https://github.com/tamunoWoks/Statistics/blob/main/images/quartile.jfif)
