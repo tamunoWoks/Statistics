@@ -33,7 +33,7 @@ In Statistics **Quartiles** are values that divide a dataset into **four equal p
 
 | Quartile   | Symbol | Meaning                                |
 |------------|--------|----------------------------------------|
-| **Q1**     | \( Q_1 \) | The **first quartile** (25th percentile) — 25% of the data lies **below** this value |
+| **Q1**     | $Q_1$ | The **first quartile** (25th percentile) — 25% of the data lies **below** this value |
 | **Q2**     | \( Q_2 \) | The **second quartile** (50th percentile) — This is the **median** of the dataset |
 | **Q3**     | \( Q_3 \) | The **third quartile** (75th percentile) — 75% of the data lies **below** this value |
 
