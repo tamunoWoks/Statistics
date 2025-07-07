@@ -59,9 +59,13 @@ For example:
 - The **90th percentile (P90)** means 90% of the data lies below that value.
 
 ### Percentiles vs Quartiles:
-
 | Term        | Percentile Equivalent  | Meaning                          |
 |:------------|:-----------------------|:---------------------------------|
 | **Q1**      | 25th percentile        | Lower quartile                   |
 | **Q2**      | 50th percentile        | Median                           |
 | **Q3**      | 75th percentile        | Upper quartile                   |
+
+### Use Cases:
+- **Exam scores**: “You’re in the 80th percentile” means you scored better than 80% of students.
+- **Health data**: Baby growth charts use percentiles for weight/height.
+- **Data analysis**: Identifying skew, outliers, and spread.
