@@ -13,15 +13,6 @@ In Statistics **Outliers** are data points that are significantly different from
 - They can **influence models**, especially in regression and machine learning.
 
 ### Methods to Detect Outliers:
-
-#### 1. **Using the Z-score**:
-If  $|z| > 3$, the value may be considered an outlier.  Remember, $z = \frac{x - \mu}{\sigma}$
-
-#### 2. **Using the IQR (Interquartile Range)**:
-\[
-\text{IQR} = Q3 - Q1
-\]
-- Outliers fall outside:  
-  \[
-  [Q1 - 1.5 \times \text{IQR},\ Q3 + 1.5 \times \text{IQR}]
-  \]
+1. Using the Z-score
+2. Using the IQR (Interquartile Range)
+3. Box plots.
