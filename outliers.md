@@ -28,6 +28,7 @@ In Statistics **Outliers** are data points that are significantly different from
 
 ## Quartiles
 In Statistics **Quartiles** are values that divide a dataset into **four equal parts**, helping to understand the **spread** and **center** of the data.
+> 📌 Quartiles are essential for summarizing distribution and variability, especially in **exploratory data analysis (EDA)**.
 
 ### The Three Quartiles:
 | Quartile   | Symbol | Meaning                                |
