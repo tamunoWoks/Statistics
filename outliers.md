@@ -24,7 +24,7 @@ In Statistics **Outliers** are data points that are significantly different from
 - **Transform**: Apply techniques like log transformation or robust statistics
 
 > ⚠️ Always analyze the **context** before removing outliers.
-> ---
+---
 
 ## Quartiles
 In Statistics **Quartiles** are values that divide a dataset into **four equal parts**, helping to understand the **spread** and **center** of the data.
