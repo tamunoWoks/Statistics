@@ -6,3 +6,8 @@ In Statistics **Outliers** are data points that are significantly different from
 - Data entry mistakes
 - Genuine variability in the data
 - Sampling anomalies
+
+### Why Are Outliers Important?
+- They can **skew** the mean and standard deviation.
+- They may indicate **special cases**, **anomalies**, or **errors**.
+- They can **influence models**, especially in regression and machine learning.
