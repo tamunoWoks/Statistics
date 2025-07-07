@@ -31,7 +31,7 @@ In Statistics **Quartiles** are values that divide a dataset into **four equal p
 
 ### The Three Quartiles:
 | Quartile   | Symbol | Meaning                                |
-|------------|--------|----------------------------------------|
+|:-----------|:-------|:---------------------------------------|
 | **Q1**     | $Q_1$ | The **first quartile** (25th percentile) — 25% of the data lies **below** this value |
 | **Q2**     | $Q_2$ | The **second quartile** (50th percentile) — This is the **median** of the dataset |
 | **Q3**     | $Q_3$ | The **third quartile** (75th percentile) — 75% of the data lies **below** this value |
@@ -57,3 +57,11 @@ In Statistics, **Percentiles** are values that divide a dataset into **100 equal
 For example:
 - The **25th percentile (P25)** means 25% of the data is less than or equal to that value.
 - The **90th percentile (P90)** means 90% of the data lies below that value.
+
+### Percentiles vs Quartiles:
+
+| Term        | Percentile Equivalent  | Meaning                          |
+|:------------|:-----------------------|:---------------------------------|
+| **Q1**      | 25th percentile        | Lower quartile                   |
+| **Q2**      | 50th percentile        | Median                           |
+| **Q3**      | 75th percentile        | Upper quartile                   |
