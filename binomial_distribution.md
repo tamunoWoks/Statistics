@@ -15,3 +15,14 @@ Where:
 - $k$ = number of successes (0 ≤ k ≤ n)  
 - $p$ = probability of success  
 - $\binom{n}{k}$ = "n choose k" = $\frac{n!}{k!(n-k)!}$
+
+### Example:
+> A coin is flipped 5 times. What is the probability of getting exactly 3 heads?
+
+- $n = 5$, $p = 0.5$, $k = 3$
+
+$$
+P(X = 3) = \binom{5}{3} (0.5)^3 (0.5)^2 = 10 \cdot 0.125 \cdot 0.25 = 0.3125
+$$
+
+> ✅ So, there's a **31.25%** chance of getting exactly 3 heads.
