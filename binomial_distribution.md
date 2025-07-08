@@ -34,3 +34,8 @@ $$
 - Yes/no survey responses
 
 > 📌 Use the Binomial distribution when you want to model **discrete outcomes** in repeated, independent trials.
+
+### Bernoulli Trials:
+In Statistics a **Bernoulli trial** is a random experiment with **exactly two possible outcomes**:
+- **Success** (usually coded as 1)
+- **Failure** (usually coded as 0)
