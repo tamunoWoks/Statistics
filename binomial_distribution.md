@@ -32,3 +32,5 @@ $$
 - Pass/fail tests
 - Defective vs non-defective products
 - Yes/no survey responses
+
+> 📌 Use the Binomial distribution when you want to model **discrete outcomes** in repeated, independent trials.
