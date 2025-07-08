@@ -26,3 +26,9 @@ P(X = 3) = \binom{5}{3} (0.5)^3 (0.5)^2 = 10 \cdot 0.125 \cdot 0.25 = 0.3125
 $$
 
 > ✅ So, there's a **31.25%** chance of getting exactly 3 heads.
+
+### Use Cases:
+- Tossing coins
+- Pass/fail tests
+- Defective vs non-defective products
+- Yes/no survey responses
