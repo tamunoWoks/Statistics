@@ -15,3 +15,8 @@ Imagine a population of dice rolls (1 through 6). A single die roll is not norma
 - Plot those averages.
 
 The resulting distribution of sample means will look like a bell curve (normal distribution), centered around the expected value (3.5).
+
+## Pascal's Triangle
+**Pascal's Triangle** is a triangular array of numbers where:
+- Each number is the sum of the two numbers directly above it.
+- The triangle starts with a 1 at the top, and it grows row by row.
