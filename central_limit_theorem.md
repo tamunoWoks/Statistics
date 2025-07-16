@@ -33,6 +33,9 @@ Each row corresponds to the coefficients in the binomial expansion: Hence, **Pas
 
 ### Pascal’s Triangle and the Central Limit Theorem (CLT)
 Pascal's Triangle is deeply connected to binomial distributions, and the CLT helps explain what happens to those distributions as they grow.  
+
 **Here’s the connection:**  
 - Each row in Pascal's Triangle represents the coefficients of a binomial distribution for a certain number of trials.
-- As the number of trials increases (i.e. you go down the triangle), the shape of the distribution formed by the row becomes increasingly bell-shaped.
+- As the number of trials increases (i.e. you go down the triangle), the shape of the distribution formed by the row becomes increasingly bell-shaped.  
+
+The Binomial Distribution (e.g., number of heads in multiple coin flips) becomes approximately normal as the number of trials increases — this is exactly what the Central Limit Theorem says.
