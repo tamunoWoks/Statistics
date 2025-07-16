@@ -39,3 +39,10 @@ Pascal's Triangle is deeply connected to binomial distributions, and the CLT hel
 - As the number of trials increases (i.e. you go down the triangle), the shape of the distribution formed by the row becomes increasingly bell-shaped.  
 
 The Binomial Distribution (e.g., number of heads in multiple coin flips) becomes approximately normal as the number of trials increases — this is exactly what the Central Limit Theorem says.
+
+#### Example:
+- Flip a coin 1 time → outcomes: H or T → distribution not normal.
+- Flip a coin 10 times → count number of heads → Pascal's triangle row gives probabilities → distribution starts to look like a curve.
+- Flip a coin 100 times → that row of Pascal's triangle will produce a histogram that looks almost like a normal bell curve.
+
+✅ Summary of the Relationship
