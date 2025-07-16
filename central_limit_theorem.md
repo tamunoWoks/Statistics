@@ -45,4 +45,9 @@ The Binomial Distribution (e.g., number of heads in multiple coin flips) becomes
 - Flip a coin 10 times → count number of heads → Pascal's triangle row gives probabilities → distribution starts to look like a curve.
 - Flip a coin 100 times → that row of Pascal's triangle will produce a histogram that looks almost like a normal bell curve.
 
-✅ Summary of the Relationship
+### Summary of the Relationship
+| Concept      | Pascal's Triangle                                | Central Limit Theorem                                                |
+| ------------ | ------------------------------------------------ | -------------------------------------------------------------------- |
+| What it does | Gives binomial coefficients                      | Explains why sampling distributions become normal                    |
+| Applies to   | Binomial expansions and distributions            | All distributions (with large enough samples)                        |
+| Connection   | Rows of the triangle give binomial probabilities | As rows grow (more trials), the binomial distribution becomes normal |
