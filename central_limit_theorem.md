@@ -7,3 +7,11 @@ This is true regardless of the population's original distribution, provided:
 - The sample size is sufficiently large (usually 𝑛 ≥ 30 is considered enough)
 - The samples are independent and identically distributed (i.i.d.)
 - The population has a finite mean (μ) and finite variance (σ²).
+
+#### Example
+Imagine a population of dice rolls (1 through 6). A single die roll is not normally distributed. But if you:
+- Roll a die 30 times and take the average.
+- Repeat this experiment many times (e.g., 10,000 times).
+- Plot those averages.
+
+The resulting distribution of sample means will look like a bell curve (normal distribution), centered around the expected value (3.5).
