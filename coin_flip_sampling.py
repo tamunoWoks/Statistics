@@ -26,3 +26,9 @@ def flip(N):
 def sample(N):
     # Perform N experiments, each of N coin flips
     return [mean(flip(N)) for _ in range(N)]
+
+# Only run the simulation and plot if this file is executed directly
+if __name__ == "__main__":
+    N = 1000  # Number of trials and flips per trial
+    outcomes = sample(N)  # Get proportions of heads in each trial
+    histplot(outcomes, nbins=30)  # Plot histogram of outcomes
