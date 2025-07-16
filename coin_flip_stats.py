@@ -14,3 +14,9 @@ def variance(data):
 # Function to calculate the standard deviation using variance
 def stddev(data):
     return sqrt(variance(data))
+
+# Function to simulate flipping N fair coins
+def flip(N):
+    # For each flip, generate a random number between 0 and 1
+    # If it's less than 0.5, treat it as 1 (heads), else 0 (tails)
+    return [1 if random.random() < 0.5 else 0 for _ in range(N)]
