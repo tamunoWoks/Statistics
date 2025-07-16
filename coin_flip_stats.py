@@ -10,3 +10,7 @@ def mean(data):
 def variance(data):
     mu = mean(data)  # Compute the mean first
     return sum([(x - mu)**2 for x in data]) / len(data)
+
+# Function to calculate the standard deviation using variance
+def stddev(data):
+    return sqrt(variance(data))
