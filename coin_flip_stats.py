@@ -29,3 +29,6 @@ f = flip(N)
 
 # Print the mean (should be close to 0.5 for fair coin)
 print(mean(f))
+
+# Print the standard deviation (should be close to sqrt(0.25) ≈ 0.5)
+print(stddev(f))
