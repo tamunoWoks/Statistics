@@ -19,4 +19,13 @@ The resulting distribution of sample means will look like a bell curve (normal d
 ## Pascal's Triangle
 **Pascal's Triangle** is a triangular array of numbers where:
 - Each number is the sum of the two numbers directly above it.
-- The triangle starts with a 1 at the top, and it grows row by row.
+- The triangle starts with a 1 at the top, and it grows row by row.  
+
+Here's how the first few rows look:
+```markdown
+         1
+       1   1
+     1   2   1
+   1   3   3   1
+ 1   4   6   4   1
+```
