@@ -33,3 +33,7 @@ A special case where:
 - Quality control (process variation).
 - Finance (stock returns, risk models).
 - Natural phenomena (heights, test scores).
+
+### Relationship to the Central Limit Theorem (CLT):
+The normal distribution is central to statistics because of the CLT, which states:
+> If you take the average of many random samples, their distribution will tend toward a normal distribution — regardless of the population’s original distribution (as long as sample size is large enough).
