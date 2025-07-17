@@ -1,5 +1,7 @@
 ## Normal Distribution
-In statistics, the **normal distribution** (or **Gaussian distribution**) is a continuous probability distribution characterized by its symmetric, bell-shaped curve. It is widely used in statistics due to its natural occurrence in many real-world datasets.
+In statistics, the **normal distribution** (or **Gaussian distribution**) is a continuous probability distribution characterized by its symmetric, bell-shaped curve. It is widely used in statistics due to its natural occurrence in many real-world datasets.  
+
+![Gaussian curve](https://github.com/tamunoWoks/Statistics/blob/main/images/gaussian.png)
 
 ### Key Properties:
 - **Symmetry**: Symmetric about the mean (μ).
