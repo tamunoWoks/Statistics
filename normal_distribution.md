@@ -46,3 +46,6 @@ The normal distribution is central to statistics because of the CLT, which state
 | Spread     | Controlled by standard deviation (σ)         |
 | Importance | Foundation for much of statistical inference |
 | Appears in | Nature, psychology, business, measurement    |
+
+## Normalizer
+A **Normalizer** ensures that the total area under the curve of the normal distribution is exactly 1. This is crucial because in probability distributions, the total probability must equal 1.
