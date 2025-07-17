@@ -37,3 +37,12 @@ A special case where:
 ### Relationship to the Central Limit Theorem (CLT):
 The normal distribution is central to statistics because of the CLT, which states:
 > If you take the average of many random samples, their distribution will tend toward a normal distribution — regardless of the population’s original distribution (as long as sample size is large enough).
+
+### Summary:
+| Feature    | Description                                  |
+| ---------- | -------------------------------------------- |
+| Shape      | Bell-shaped, symmetric                       |
+| Center     | Mean = Median = Mode                         |
+| Spread     | Controlled by standard deviation (σ)         |
+| Importance | Foundation for much of statistical inference |
+| Appears in | Nature, psychology, business, measurement    |
