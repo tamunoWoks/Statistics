@@ -21,3 +21,9 @@ A special case where:
 - Mean (μ) = 0
 - Standard deviation (σ) = 1  
 - Any normal distribution can be converted to a standard normal distribution using the z-score:   **$z = \frac{x - \mu}{\sigma}$**
+
+### Applications:
+- Statistics (hypothesis testing, confidence intervals).
+- Quality control (process variation).
+- Finance (stock returns, risk models).
+- Natural phenomena (heights, test scores).
