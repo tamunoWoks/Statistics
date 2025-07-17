@@ -59,7 +59,7 @@ The normal distribution is a continuous probability distribution, so probabiliti
 
 ### Summary:
 | Term               | Formula                                         | Role                                                    |
-| ------------------ | ----------------------------------------------- | ------------------------------------------------------- |
+| :----------------- | :---------------------------------------------- | :------------------------------------------------------ |
 | **Normalizer**     | $\frac{1}{\sigma \sqrt{2\pi}}$                  | Scales the normal distribution so total probability = 1 |
 | **Why important?** | Ensures the integral (area under the curve) = 1 | Makes the PDF valid                                     |
 
