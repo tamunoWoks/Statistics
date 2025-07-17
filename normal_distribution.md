@@ -6,8 +6,8 @@ In statistics, the **normal distribution** (or **Gaussian distribution**) is a c
 - **Bell-shaped curve**: Highest density at the mean, tapering off equally on both sides.
 - **Mean = Median = Mode**: All central measures coincide at the center.
 - **Parameters**:
-  - **Mean (μ)**: Center of the distribution.
-  - **Standard deviation (σ)**: Spread (σ = narrow, σ = wide).
+  - **Mean (μ)**: Determines the center of the distribution.
+  - **Standard deviation (σ)**: Controls the spread (width) of the distribution. The bigger the wider.
 - **Empirical Rule (68-95-99.7)**:
   - ≈68% of data in **μ ± σ**.
   - ≈95% of data in **μ ± 2σ**.
