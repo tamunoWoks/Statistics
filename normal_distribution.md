@@ -57,4 +57,9 @@ The normal distribution is a continuous probability distribution, so probabiliti
 - Without the Normalizer, the function ( $e^{ -\frac{(x - \mu)^2}{2\sigma^2}}$ ) would not integrate to 1.  It would simply produce a **bell-shaped curve** with **arbitrary area**.
 - The normalizer scales the curve so that the area under the entire curve from The normalizer scales the curve so that the area under the entire curve from −∞ to ∞ is exactly 1, making it a valid probability density function.
 
+### Summary:
+| Term               | Formula                                         | Role                                                    |
+| ------------------ | ----------------------------------------------- | ------------------------------------------------------- |
+| **Normalizer**     | $\frac{1}{\sigma \sqrt{2\pi}}$                  | Scales the normal distribution so total probability = 1 |
+| **Why important?** | Ensures the integral (area under the curve) = 1 | Makes the PDF valid                                     |
 
