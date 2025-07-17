@@ -12,3 +12,9 @@ In statistics, the **normal distribution** (or **Gaussian distribution**) is a c
   - ≈68% of data in **μ ± σ**.
   - ≈95% of data in **μ ± 2σ**.
   - ≈99.7% of data in **μ ± 3σ**.
+
+### Probability Density Function (PDF):
+The PDF of a normal distribution is given by:  
+\[
+f(x) = \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(x - \mu)^2}{2\sigma^2}}
+\]
