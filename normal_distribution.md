@@ -16,7 +16,11 @@ In statistics, the **normal distribution** (or **Gaussian distribution**) is a c
 ![Gaussian curve](https://github.com/tamunoWoks/Statistics/blob/main/images/gaussian.png)
 
 ### Probability Density Function (PDF):
-The PDF of a normal distribution is given by:   **$f(x) = \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(x - \mu)^2}{2\sigma^2}}$**
+The PDF of a normal distribution is given by:   **$f(x) = \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(x - \mu)^2}{2\sigma^2}}$**  
+Where:
+- 𝜇 = mean
+- 𝜎 = standard deviation
+- 𝑒 = Euler’s number (~2.718)
 
 ### Standard Normal Distribution:
 A special case where:
