@@ -15,3 +15,9 @@ In statistics, the **normal distribution** (or **Gaussian distribution**) is a c
 
 ### Probability Density Function (PDF):
 The PDF of a normal distribution is given by:  $f(x) = \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(x - \mu)^2}{2\sigma^2}}$
+
+### Standard Normal Distribution:
+A special case where:
+- Mean (μ) = 0
+- Standard deviation (σ) = 1  
+- Any normal distribution can be converted to a standard normal distribution using the z-score:  $z = \frac{x - \mu}{\sigma}$
