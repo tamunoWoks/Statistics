@@ -53,6 +53,8 @@ The normalizer in the normal distribution is the constant out front in the proba
 
 ### Why do we need it?
 The normal distribution is a continuous probability distribution, so probabilities are found by integrating the function over an interval.
-- Without the Normalizer, he function [ $e^{ -\frac{(x - \mu)^2}{2\sigma^2}}$ ] would not integrate to 1.  It would simply produce a **bell-shaped curve** with **arbitrary area**.
+- The normal distribution is a continuous probability distribution, so probabilities are found by integrating the function over an interval.
+- Without the Normalizer, the function ( $e^{ -\frac{(x - \mu)^2}{2\sigma^2}}$ ) would not integrate to 1.  It would simply produce a **bell-shaped curve** with **arbitrary area**.
+- The normalizer scales the curve so that the area under the entire curve from The normalizer scales the curve so that the area under the entire curve from −∞ to ∞ is exactly 1, making it a valid probability density function.
 
 
