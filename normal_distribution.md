@@ -50,4 +50,4 @@ The normal distribution is central to statistics because of the CLT, which state
 ## Normalizer
 A **Normalizer** ensures that the total area under the curve of the normal distribution is exactly 1. This is crucial because in probability distributions, the total probability must equal 1.  
 
-The normalizer in the normal distribution is the constant out front in the probability density function (PDF):  $\frac{1}{\sigma \sqrt{2\pi}}$
+The normalizer in the normal distribution is the constant out front in the probability density function (PDF):     $\frac{1}{\sigma \sqrt{2\pi}}$
