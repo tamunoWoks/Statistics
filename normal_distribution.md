@@ -15,6 +15,6 @@ In statistics, the **normal distribution** (or **Gaussian distribution**) is a c
 
 ### Probability Density Function (PDF):
 The PDF of a normal distribution is given by:  
-\[
+$$\
 f(x) = \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(x - \mu)^2}{2\sigma^2}}
-\]
+\$$
