@@ -45,3 +45,10 @@ Where:
 | 99%              | 2.576     |
 
 Use $t^*$ values from the **t-table** if using the t-distribution (typically for small samples or unknown population standard deviation).
+
+## Margin of Error (ME)
+The **Margin of Error** represents the **maximum expected difference** between the true population parameter and the sample estimate.
+
+### Formula:
+- If using **z-distribution**: $\text{ME} = z^* \cdot \frac{\sigma}{\sqrt{n}}$
+- If using **t-distribution**: $\text{ME} = t^* \cdot \frac{s}{\sqrt{n}}$
