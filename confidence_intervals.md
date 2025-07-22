@@ -28,9 +28,10 @@ Where:
 ### Confidence Interval Formula:
 1. When the population standard deviation $\sigma$ is known (or sample size is large), the CI for the population mean is:  $\bar{x} \pm z^* \cdot \frac{\sigma}{\sqrt{n}}$
 2. When $\sigma$ is **unknown** and sample size is **small**, use the **t-distribution**:  $\bar{x} \pm t^* \cdot \frac{s}{\sqrt{n}}$.  
+
 Where:
 - $\bar{x}$ = sample mean  
-- $z^*$ or $t^*$ = critical value (depends on confidence level)  
+- $\pm z^*$ or $\pm t^*$ = critical value (depends on confidence level)  
 - $\sigma$ = population standard deviation  
 - $s$ = sample standard deviation  
 - $n$ = sample size
