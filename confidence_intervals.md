@@ -18,3 +18,9 @@ A **confidence interval (CI)** is a range of values, derived from sample data, t
    - Depends on the distribution:
      - **Z-score** (Normal dist.) for large samples or known σ.
      - **T-score** (T-dist.) for small samples with unknown σ.
+
+### Structure of a Confidence Interval:
+A confidence interval is typically written as:  $\text{CI} = \bar{x} \pm \text{Margin of Error}$  
+Where:  
+- $\bar{x}$ = sample mean
+- **Margin of Error (ME)** = the range added and subtracted from the mean
