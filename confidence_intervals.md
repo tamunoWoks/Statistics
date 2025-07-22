@@ -51,3 +51,11 @@ The **Margin of Error** represents the **maximum expected difference** between t
 #### Formula:
 - If using **z-distribution**: $\text{ME} = z^* \cdot \frac{\sigma}{\sqrt{n}}$
 - If using **t-distribution**: $\text{ME} = t^* \cdot \frac{s}{\sqrt{n}}$
+
+### **Factors Affecting Margin of Error:**
+1. **Sample Size (\(n\))**:  
+   - Larger $n$ → Smaller ME (since $\text{ME} \propto \frac{1}{\sqrt{n}}$).  
+2. **Confidence Level**:  
+   - Higher confidence (e.g., 99% vs 95%) → Wider CI.  
+3. **Variability (σ or s)**:  
+   - More variability → Larger ME.  
