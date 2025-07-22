@@ -31,7 +31,7 @@ Where:
 
 Where:
 - $\bar{x}$ = sample mean  
-- $\pm z^*$ or $\pm t^*$ = critical value (depends on confidence level)  
+- $\z^*$ or $\t^*$ = critical value (depends on confidence level)  
 - $\sigma$ = population standard deviation  
 - $s$ = sample standard deviation  
 - $n$ = sample size
