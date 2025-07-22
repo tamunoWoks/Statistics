@@ -59,3 +59,9 @@ The **Margin of Error** represents the **maximum expected difference** between t
    - Higher confidence (e.g., 99% vs 95%) → Wider CI.  
 3. **Variability (σ or s)**:  
    - More variability → Larger ME.  
+
+### Final Notes:
+- A **wider CI** means more uncertainty; a **narrower CI** means more precision.
+- Increasing the **sample size** reduces the margin of error.
+- Increasing the **confidence level** increases the width of the interval.
+- CI shrinks as sample size increases while SD remains the same.
