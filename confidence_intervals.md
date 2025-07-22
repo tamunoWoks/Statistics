@@ -35,3 +35,13 @@ Where:
 - $\sigma$ = population standard deviation  
 - $s$ = sample standard deviation  
 - $n$ = sample size
+
+### Common Confidence Levels and z-scores:
+
+| Confidence Level | z\*-value |
+|------------------|-----------|
+| 90%              | 1.645     |
+| 95%              | 1.960     |
+| 99%              | 2.576     |
+
+Use $t^*$ values from the **t-table** if using the t-distribution (typically for small samples or unknown population standard deviation).
