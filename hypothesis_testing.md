@@ -17,14 +17,14 @@ The goal of Hypothesis Testing is to determine whether there is enough evidence 
 
 ### Steps in Hypothesis Testing:
 1. State the Hypotheses:
-  - Null hypothesis ($H_0$): e.g., "The mean is 50"
-  - Alternative hypothesis ($H_1$): e.g., "The mean is not 50"
+    - Null hypothesis ($H_0$): e.g., "The mean is 50"
+    - Alternative hypothesis ($H_1$): e.g., "The mean is not 50"
 2. Choose Significance Level (𝛼, often 0.05)
 3. Select the Appropriate Test:
-  - z-test, t-test, chi-square test, etc., depending on data type and size
+    - z-test, t-test, chi-square test, etc., depending on data type and size
 4. Calculate the Test Statistic
 5. Compute the p-value
 6. Make a Decision:
-  - If p-value ≤ 𝛼: Reject $H_0$
-  - If p-value > 𝛼: Fail to reject $H_0$
+    - If p-value ≤ 𝛼: Reject $H_0$
+    - If p-value > 𝛼: Fail to reject $H_0$
 ​
