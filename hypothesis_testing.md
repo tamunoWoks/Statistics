@@ -28,3 +28,8 @@ The goal of Hypothesis Testing is to determine whether there is enough evidence 
     - If p-value ≤ 𝛼: Reject $H_0$
     - If p-value > 𝛼: Fail to reject $H_0$
 ​
+### Errors in Hypothesis Testing:
+| Type              | What it Means                                                     |
+| :---------------- | :---------------------------------------------------------------- |
+| **Type I Error**  | Rejecting $H_0$ when it's actually true (false positive)          |
+| **Type II Error** | Failing to reject $H_0$ when it's actually false (false negative) |
