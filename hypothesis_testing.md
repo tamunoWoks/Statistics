@@ -33,3 +33,11 @@ The goal of Hypothesis Testing is to determine whether there is enough evidence 
 | :---------------- | :---------------------------------------------------------------- |
 | **Type I Error**  | Rejecting $H_0$ when it's actually true (false positive)          |
 | **Type II Error** | Failing to reject $H_0$ when it's actually false (false negative) |
+
+### Summary:
+| Element       | Purpose                                               |
+| :------------ | :---------------------------------------------------- |
+| $H_0$         | Assumes no effect or difference                       |
+| $H_a$         | Represents a suspected effect or difference           |
+| p-value       | Tells you how likely your result is, if $H_0$ is true |
+| Decision Rule | Compare p-value to $\alpha$ to accept or reject $H_0$ |
