@@ -41,3 +41,5 @@ The goal of Hypothesis Testing is to determine whether there is enough evidence 
 | $H_a$         | Represents a suspected effect or difference           |
 | p-value       | Tells you how likely your result is, if $H_0$ is true |
 | Decision Rule | Compare p-value to $\alpha$ to accept or reject $H_0$ |
+
+> Hypothesis testing is a cornerstone of inferential statistics. It helps us decide whether what we observe is statistically significant or just due to chance.
