@@ -22,3 +22,8 @@ The strength and direction of a correlation are usually measured by the correlat
 3. **No Correlation:**
     - No clear relationship between variables.
     - Example: Shoe size vs. intelligence
+
+### Visual Understanding:
+- **Strong Positive:** Points form a tight line going up.
+- **Strong Negative:** Points form a tight line going down.
+- **No Correlation:** Points are scattered with no pattern.
