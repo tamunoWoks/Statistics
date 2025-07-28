@@ -7,3 +7,7 @@ Regression is used to:
 - Identify trends or patterns
 - Determine the strength and type of relationships between variables
 
+### Types of Regression:
+1. **Linear Regression:** Models the relationship as a straight line.
+2. **Multiple Linear RegressionL:** Used when there are two or more independent variables.
+3. **Nonlinear regression:** Used when the relationship between variables is not a straight line.
