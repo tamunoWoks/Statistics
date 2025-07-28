@@ -3,8 +3,5 @@ Correlation is a statistical measure that describes the strength and direction o
 
 ## The Correlation Coefficient (r)
 The strength and direction of a correlation are usually measured by the correlation coefficient, denoted by 
-𝑟.  
-$$
-−1 ≤ 𝑟 ≤ 1
-$$
+𝑟, and (−1 ≤ 𝑟 ≤ 1).
 
