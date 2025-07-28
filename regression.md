@@ -11,3 +11,8 @@ Regression is used to:
 1. **Linear Regression:** Models the relationship as a straight line.
 2. **Multiple Linear RegressionL:** Used when there are two or more independent variables.
 3. **Nonlinear regression:** Used when the relationship between variables is not a straight line.
+
+## Linear Regression
+Linear Regression is the simplest and most commonly used statistical method for modeling the relationship between two variables by fitting a straight line through the data.  
+
+It helps you predict the value of a dependent variable (also called output or response) based on the value of an independent variable (also called input or predictor).
