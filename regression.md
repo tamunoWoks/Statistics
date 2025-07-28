@@ -16,3 +16,13 @@ Regression is used to:
 Linear Regression is the simplest and most commonly used statistical method for modeling the relationship between two variables by fitting a straight line through the data.  
 
 It helps you predict the value of a dependent variable (also called output or response) based on the value of an independent variable (also called input or predictor).
+
+### The Linear Regression Formula:
+For Simple Linear Regression (one independent variable): $𝑦 = /𝛽_0 + /𝛽_1𝑥 + 𝜀$
+
+Where:
+- 𝑦: Dependent variable (what you want to predict)
+- 𝑥: Independent variable (the input)
+- 𝛽0: Intercept (the value of 𝑦 when 𝑥 = 0)
+- 𝛽1: Slope (how much 𝑦 changes for a unit change in 𝑥)
+- 𝜀: Error term (difference between actual and predicted 𝑦)
