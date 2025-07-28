@@ -12,4 +12,13 @@ The strength and direction of a correlation are usually measured by the correlat
 | $r > 0$      | **Positive** correlation         |
 | $r < 0$      | **Negative** correlation         |
 
-
+### Types of Correlation:
+1. **Positive Correlation:**
+    - As one variable increases, the other also increases.
+    - Example: Height and weight
+2. **Negative Correlation:**
+    - As one variable increases, the other decreases.
+    - Example: Hours of TV watched vs. exam scores
+3. **No Correlation:**
+    - No clear relationship between variables.
+    - Example: Shoe size vs. intelligence
