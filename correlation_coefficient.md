@@ -27,3 +27,8 @@ The strength and direction of a correlation are usually measured by the correlat
 - **Strong Positive:** Points form a tight line going up.
 - **Strong Negative:** Points form a tight line going down.
 - **No Correlation:** Points are scattered with no pattern.
+
+### Important Notes:
+- **Correlation does not imply causation:** Just because two variables move together doesn't mean one causes the other.
+- **Outliers can distort correlation:** A single extreme value can greatly change the correlation coefficient.
+
