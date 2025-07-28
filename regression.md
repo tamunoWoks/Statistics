@@ -32,3 +32,5 @@ Use it when:
 - You want to understand or predict the relationship between two continuous variables.
 - The relationship between variables is roughly linear.
 - You have independent observations.
+
+> Linear regression fits a line of best fit that minimizes the distance between the observed values and the predicted values (this is done by minimizing the "sum of squared errors").
