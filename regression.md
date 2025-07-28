@@ -26,3 +26,9 @@ Where:
 - $𝛽_0$: Intercept (the value of 𝑦 when 𝑥 = 0)
 - $𝛽_1$: Slope (how much 𝑦 changes for a unit change in 𝑥)
 - 𝜀: Error term (difference between actual and predicted 𝑦)
+
+### When to Use Linear Regression:
+Use it when:
+- You want to understand or predict the relationship between two continuous variables.
+- The relationship between variables is roughly linear.
+- You have independent observations.
